@@ -1,0 +1,841 @@
+{
+    "lens_id": "",
+    "version": "1",
+    "lastChanged": "1538369219573",
+    "preview": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Black"
+                    ],
+                    [
+                        "Cam textures"
+                    ],
+                    [
+                        "Cam textures",
+                        "Eye and Mouth mask cam Output"
+                    ],
+                    [
+                        "Cam textures",
+                        "Face Boarder Cam Output"
+                    ],
+                    [
+                        "Cam textures",
+                        "Face Border Cam inverse Output"
+                    ],
+                    [
+                        "Cam textures",
+                        "Hair mask Cam Output"
+                    ],
+                    [
+                        "Cam textures",
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Default Textures"
+                    ],
+                    [
+                        "Default Textures",
+                        "Base"
+                    ],
+                    [
+                        "Face Mask"
+                    ],
+                    [
+                        "Face Mask Inverse"
+                    ],
+                    [
+                        "Hair Mask"
+                    ],
+                    [
+                        "Mouth mask"
+                    ],
+                    [
+                        "Occluder"
+                    ],
+                    [
+                        "Outline Head"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Emitter Material"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Mesh"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Texture"
+                    ],
+                    [
+                        "Plane"
+                    ],
+                    [
+                        "Portrait Hair Segmentation"
+                    ],
+                    [
+                        "Resource10"
+                    ],
+                    [
+                        "Sphere"
+                    ],
+                    [
+                        "White"
+                    ],
+                    [
+                        "black box"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "paper"
+                    ],
+                    [
+                        "white square"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1538234963881154:82330",
+                    "1538235074417874:82987"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "2",
+                    "v": "0"
+                },
+                {
+                    "k": "3",
+                    "v": "1"
+                },
+                {
+                    "k": "4",
+                    "v": "2"
+                },
+                {
+                    "k": "5",
+                    "v": "3"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1538231124432392:1198",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1538231153220476:1844",
+                    "name": "Portrait Face Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "11"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1538231323791102:1748",
+                    "name": "Face Boarder Cam Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1538231379202804:2431",
+                    "name": "\/Resources\/Resource16.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1538231444948723:2731",
+                    "name": "\/system\/\/SegmentationModels\/PortraitSegmentation\/",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "2",
+                    "type": "16",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1538231479964486:2926",
+                    "name": "\/Resources\/Resource22",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1538231479967019:2936",
+                    "name": "\/Resources\/Resource23.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1538231485429786:2959",
+                    "name": "\/Resources\/Resource24",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1538231563276119:3114",
+                    "name": "Portrait Face Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "11"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1538231687240889:3593",
+                    "name": "Face Border Cam inverse Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1538231876696885:5364",
+                    "name": "\/Resources\/Resource28.jpg",
+                    "sourceFilePath": "C:\/Users\/Jye Trudinger\/OneDrive - University of South Australia\/Snaplenses\/My lenses\/Hair Colour changer\/white square.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1538231976004647:7254",
+                    "name": "\/Resources\/Resource30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1538232012286859:7509",
+                    "name": "\/Resources\/Resource32",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1538232501957220:9988",
+                    "name": "\/Resources\/Resource34.jpg",
+                    "sourceFilePath": "C:\/Users\/Jye Trudinger\/OneDrive - University of South Australia\/Snaplenses\/My lenses\/Draw me\/paper.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1538232563677012:12834",
+                    "name": "\/Resources\/Resource12",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1538232739248780:20145",
+                    "name": "Portrait Hair Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "11"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1538233034986530:32326",
+                    "name": "Hair mask Cam Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1538233103976665:33099",
+                    "name": "\/Resources\/Resource38.jpg",
+                    "sourceFilePath": "C:\/Users\/Jye Trudinger\/OneDrive - University of South Australia\/Snaplenses\/My lenses\/Fortnite - Copy\/black box.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1538233120865389:33114",
+                    "name": "\/Resources\/Resource39",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1538234001754268:71486",
+                    "name": "\/Resources\/Resource40.png",
+                    "sourceFilePath": "\/Users\/tkim\/VFX\/Textures\/Water:Debris\/FX_Rain_2x2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1538234001798142:71496",
+                    "name": "\/Resources\/Resource41",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/tkim\/Desktop\/Preset_VFX0\/Public\/World\/Fountain\/GPU-Particle_Preset_Fountain_Splash\/GPU_Particles.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1538234001804772:71506",
+                    "name": "\/Resources\/Resource42.mesh",
+                    "sourceFilePath": "\/Users\/tkim\/Desktop\/fff.fbx",
+                    "additionalProperties": {
+                        "name": "Emitter_1000"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1538234918396201:81616",
+                    "name": "Eye and Mouth mask cam Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1538235220761972:85924",
+                    "name": "\/Resources\/Resource55",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1538235254017902:85953",
+                    "name": "\/Resources\/Resource56",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1538235389796197:93999",
+                    "name": "\/Resources\/Resource57.mesh",
+                    "sourceFilePath": "C:\/Users\/Jye Trudinger\/Desktop\/LS BETA\/Lens Studio\/\/Studio3DResources.bundle\/\/meshes\/Sphere.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1538369178448798:3696",
+                    "name": "\/system\/\/SegmentationModels\/PortraitSegmentation\/",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "2",
+                    "type": "16",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "AudioEffectComponent": {
+                    "presetsMap": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1538231124427448:1134",
+                "4": "1538231124432488:1205",
+                "5": "1538231124432622:1206",
+                "6": "1538231128002360:1622",
+                "7": "1538231379200089:2427",
+                "8": "1538231588314155:3216",
+                "9": "1538231692789499:3721",
+                "10": "1538231744068641:4758",
+                "11": "1538231941484504:5571",
+                "12": "1538232563676937:12827",
+                "13": "1538232887157540:30523",
+                "14": "1538232981622034:31756",
+                "15": "1538233426494949:45328",
+                "16": "1538233427670347:47110",
+                "17": "1538234614558031:80817",
+                "18": "1538234963880844:82329",
+                "19": "1538234963881154:82330",
+                "20": "1538235074417874:82987",
+                "21": "1538235091103772:83847"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "6",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Face Border",
+                    "layerMask": "2"
+                },
+                {
+                    "layerId": "3",
+                    "layerName": "face border inverse",
+                    "layerMask": "4"
+                },
+                {
+                    "layerId": "4",
+                    "layerName": "Hair mask",
+                    "layerMask": "8"
+                },
+                {
+                    "layerId": "5",
+                    "layerName": "Eye and mouth mask",
+                    "layerMask": "16"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1538232739248780:20145",
+                        "path_list": [
+                            "Portrait Hair Segmentation"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Default Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "resourceId": "23",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cam textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Orthographic Camera Output",
+                                "resourceId": "10",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Face Boarder Cam Output",
+                                "resourceId": "15",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Face Border Cam inverse Output",
+                                "resourceId": "26",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Hair mask Cam Output",
+                                "resourceId": "37",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Eye and Mouth mask cam Output",
+                                "resourceId": "43",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Particles",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Particles Texture",
+                                "resourceId": "40",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Particles Emitter Material",
+                                "resourceId": "41",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Particles Mesh",
+                                "resourceId": "42",
+                                "extension": "mesh"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "echopark_diff",
+                        "resourceId": "8",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "resourceId": "9",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Face Mask",
+                        "resourceId": "14",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Plane",
+                        "resourceId": "16",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "Black",
+                        "resourceId": "22",
+                        "extension": ""
+                    },
+                    {
+                        "name": "White",
+                        "resourceId": "24",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Face Mask Inverse",
+                        "resourceId": "25",
+                        "extension": ""
+                    },
+                    {
+                        "name": "white square",
+                        "resourceId": "28",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "Resource10",
+                        "resourceId": "30",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Hair Mask",
+                        "resourceId": "32",
+                        "extension": ""
+                    },
+                    {
+                        "name": "paper",
+                        "resourceId": "34",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "Portrait Hair Segmentation",
+                        "resourceId": "36",
+                        "extension": ""
+                    },
+                    {
+                        "name": "black box",
+                        "resourceId": "38",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "Outline Head",
+                        "resourceId": "39",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Occluder",
+                        "resourceId": "55",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Mouth mask",
+                        "resourceId": "56",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Sphere",
+                        "resourceId": "57",
+                        "extension": "mesh"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "echopark_spec.png"
+                },
+                {
+                    "id": "16",
+                    "path": "Plane.mesh"
+                },
+                {
+                    "id": "23",
+                    "path": "Default Textures\/Base.png"
+                },
+                {
+                    "id": "28",
+                    "path": "white square.jpg"
+                },
+                {
+                    "id": "30",
+                    "path": "Resource10.png"
+                },
+                {
+                    "id": "34",
+                    "path": "paper.jpg"
+                },
+                {
+                    "id": "38",
+                    "path": "black box.jpg"
+                },
+                {
+                    "id": "40",
+                    "path": "Particles\/Particles Texture.png"
+                },
+                {
+                    "id": "42",
+                    "path": "Particles\/Particles Mesh.mesh"
+                },
+                {
+                    "id": "57",
+                    "path": "Sphere.mesh"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1 @@
+intro with tap to continue and has counter so it still works with video calls and snap camera. Used both so it can be tapped away faster but forgot you cant tap in a call. Both scripts are by Ben. Just import, add a billboard so it adds the orthographic camera, then delete the sprite and place the intro in its place under orthographic camera/effects/
