@@ -1,0 +1,428 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1537551525068",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "#2"
+                    ],
+                    [
+                        "#3"
+                    ],
+                    [
+                        "#4"
+                    ],
+                    [
+                        "#5"
+                    ],
+                    [
+                        "#6"
+                    ],
+                    [
+                        "IMG_0406"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "Tap To Next Sprit - Script"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "a435a9433c016a30008ea2c362108608",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "CHRISEDITING",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1528667919728479:39475",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1528667919763305:39510",
+                    "name": "\/Resources\/Resource12",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1528667925836089:39712",
+                    "name": "\/Resources\/Resource13.jpg",
+                    "sourceFilePath": "\/Users\/chrisapple\/Downloads\/IMG_0406.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1528668002706267:40819",
+                    "name": "\/Resources\/Resource14.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1528668025170443:40993",
+                    "name": "\/Resources\/Resource15.js",
+                    "sourceFilePath": "\/Users\/chrisapple\/Documents\/Snapchat\/Tap To Next Sprit - Script.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1528668650247494:44368",
+                    "name": "\/Resources\/Resource16.jpg",
+                    "sourceFilePath": "\/Users\/chrisapple\/Documents\/Snapchat\/Rio De Janeiro\/#2.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1528668728255610:45136",
+                    "name": "\/Resources\/Resource17.jpg",
+                    "sourceFilePath": "\/Users\/chrisapple\/Documents\/Snapchat\/Rio De Janeiro\/#3.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1528668764332755:45559",
+                    "name": "\/Resources\/Resource18.jpg",
+                    "sourceFilePath": "\/Users\/chrisapple\/Documents\/Snapchat\/Rio De Janeiro\/#4.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1528668874229676:46603",
+                    "name": "\/Resources\/Resource19.jpg",
+                    "sourceFilePath": "\/Users\/chrisapple\/Documents\/Snapchat\/Rio De Janeiro\/#5.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1528668926653845:47174",
+                    "name": "\/Resources\/Resource20.jpg",
+                    "sourceFilePath": "\/Users\/chrisapple\/Documents\/Snapchat\/Rio De Janeiro\/#6.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228044:84816",
+                "2": "1517446348228144:84822",
+                "3": "1528667919712744:39389",
+                "4": "1528667919728607:39484",
+                "5": "1528667919729766:39487"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "resourceId": "8",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "resourceId": "9",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "10",
+                        "extension": ""
+                    },
+                    {
+                        "name": "IMG_0406",
+                        "resourceId": "13",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "Script",
+                        "resourceId": "14",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Tap To Next Sprit - Script",
+                        "resourceId": "15",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "#2",
+                        "resourceId": "16",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "#3",
+                        "resourceId": "17",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "#4",
+                        "resourceId": "18",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "#5",
+                        "resourceId": "19",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "#6",
+                        "resourceId": "20",
+                        "extension": "jpg"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "echopark_spec.png"
+                },
+                {
+                    "id": "13",
+                    "path": "IMG_0406.jpg"
+                },
+                {
+                    "id": "14",
+                    "path": "Script.js"
+                },
+                {
+                    "id": "15",
+                    "path": "Tap To Next Sprit - Script.js"
+                },
+                {
+                    "id": "16",
+                    "path": "#2.jpg"
+                },
+                {
+                    "id": "17",
+                    "path": "#3.jpg"
+                },
+                {
+                    "id": "18",
+                    "path": "#4.jpg"
+                },
+                {
+                    "id": "19",
+                    "path": "#5.jpg"
+                },
+                {
+                    "id": "20",
+                    "path": "#6.jpg"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1528667919729766:39487"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}

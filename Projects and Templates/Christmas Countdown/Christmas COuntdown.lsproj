@@ -1,0 +1,594 @@
+{
+    "lens_id": "bb0ea285-3ee4-4276-ac88-335f536e941b",
+    "document_id": "__bPILTQ6IH7OpxcWVAp",
+    "original_document_id": "__bPILTQ6IH7OpxcWVAp",
+    "version": "1",
+    "lastChanged": "1542173929003",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "All Yellow"
+                    ],
+                    [
+                        "LOLCHRISTMA"
+                    ],
+                    [
+                        "MountainsofChristmas"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "SIX_CDE3FC9A-8FC8-40CB-9A34-09656A57AD3C"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "Waving at Christmas"
+                    ],
+                    [
+                        "arrboaw-01"
+                    ],
+                    [
+                        "crhis"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "flower boy"
+                    ],
+                    [
+                        "new newnew"
+                    ],
+                    [
+                        "snowwwwww"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1542155440313795:124245"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "5916190b26dd879653ea0a0efe3301af",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Xmas Countdown",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1542150246450282:120083",
+                    "1542160377951001:169047"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1542153029415849:122551",
+                    "name": "\/Resources\/Resource13.png",
+                    "sourceFilePath": "\/Users\/slakey\/Downloads\/slakey\/Honors Project\/flower boy.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1542155398698182:123744",
+                    "name": "\/Resources\/Resource16.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1542155440333445:124340",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1542155440355687:124417",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1542155440356426:124429",
+                    "name": "Text",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "2",
+                    "type": "1",
+                    "subtype": "8"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1542157000040352:128300",
+                    "name": "\/Resources\/Resource20.ttf",
+                    "sourceFilePath": "\/Users\/slakey\/Downloads\/waving_at_christmas\/Waving at Christmas.ttf",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "13",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1542157191743392:132520",
+                    "name": "\/Resources\/Resource21.ttf",
+                    "sourceFilePath": "\/Users\/slakey\/Downloads\/mountains-of-christmas\/MountainsofChristmas.ttf",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "13",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1542159405483650:141985",
+                    "name": "\/Resources\/Resource22.png",
+                    "sourceFilePath": "\/Users\/slakey\/Documents\/Color look ups\/806\/Snap Filters\/spatiana\/new flowers\/LOLCHRISTMA.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1542159424150390:143262",
+                    "name": "\/Resources\/Resource26",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1542160021073683:149466",
+                    "name": "\/Resources\/Resource27.png",
+                    "sourceFilePath": "\/Users\/slakey\/Documents\/Color look ups\/806\/Snap Filters\/spatiana\/new flowers\/crhis.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1542160317668749:160573",
+                    "name": "\/Resources\/Resource28",
+                    "sourceFilePath": "\/Users\/slakey\/Documents\/Color look ups\/806\/Snap Filters\/spatiana\/new flowers\/snowwwwww.gif",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "5"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1542160330074423:161479",
+                    "name": "\/Resources\/Resource26",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1542160377974428:169060",
+                    "name": "\/Resources\/Resource30",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/mykhailobabenko\/Desktop\/retouch.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1542160377987187:169097",
+                    "name": "\/Resources\/Resource33.png",
+                    "sourceFilePath": "\/var\/folders\/sw\/8nd23ycs64j1y0nqdfqhmyzr0000gn\/T\/Lens Studio-ukwsIF\/system\/lookup.png",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1542160377990471:169106",
+                    "name": "\/Resources\/Resource34.jpg",
+                    "sourceFilePath": "\/var\/folders\/sw\/8nd23ycs64j1y0nqdfqhmyzr0000gn\/T\/Lens Studio-ukwsIF\/system\/retouch_mask.jpg",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1542160524990393:170155",
+                    "name": "\/Resources\/Resource35.png",
+                    "sourceFilePath": "\/Users\/slakey\/Downloads\/SIX_CDE3FC9A-8FC8-40CB-9A34-09656A57AD3C.PNG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1542160535755476:170321",
+                    "name": "\/Resources\/Resource37",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/oleksii.kholovchuk\/Studio3D\/Resources\/Studio3DResources.bundle\/materials\/PostEffectPreset\/Resources\/Resource12\/lookup.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1542160535768083:170333",
+                    "name": "\/Resources\/Resource38.png",
+                    "sourceFilePath": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/post_effects\/AllYellow.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1542160618440912:172282",
+                    "name": "\/Resources\/Resource39.png",
+                    "sourceFilePath": "\/Users\/slakey\/Documents\/Color look ups\/806\/Snap Filters\/spatiana\/new flowers\/arrboaw-01.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1542161284622832:174733",
+                    "name": "\/Resources\/Resource40.png",
+                    "sourceFilePath": "\/Users\/slakey\/Documents\/Color look ups\/806\/Snap Filters\/spatiana\/new flowers\/new newnew.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "AudioEffectComponent": {
+                    "presetsMap": "",
+                    "samplesMap": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1542155413810240:123857",
+                "4": "1542155440313795:124245",
+                "5": "1542155440333951:124349",
+                "6": "1542155440334666:124352",
+                "7": "1542159424128168:143131",
+                "8": "1542160330074326:161469",
+                "9": "1542160377950796:169044",
+                "10": "1542160377951001:169047",
+                "11": "1542160535716708:170300"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1542160535716708:170300"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "resourceId": "8",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "resourceId": "9",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "flower boy",
+                        "resourceId": "13",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Script",
+                        "resourceId": "16",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "17",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Waving at Christmas",
+                        "resourceId": "20",
+                        "extension": "ttf"
+                    },
+                    {
+                        "name": "MountainsofChristmas",
+                        "resourceId": "21",
+                        "extension": "ttf"
+                    },
+                    {
+                        "name": "LOLCHRISTMA",
+                        "resourceId": "22",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "crhis",
+                        "resourceId": "27",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "snowwwwww",
+                        "resourceId": "28",
+                        "extension": ""
+                    },
+                    {
+                        "name": "SIX_CDE3FC9A-8FC8-40CB-9A34-09656A57AD3C",
+                        "resourceId": "35",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "All Yellow",
+                        "resourceId": "38",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "arrboaw-01",
+                        "resourceId": "39",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "new newnew",
+                        "resourceId": "40",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "echopark_spec.png"
+                },
+                {
+                    "id": "13",
+                    "path": "flower boy.png"
+                },
+                {
+                    "id": "16",
+                    "path": "Script.js"
+                },
+                {
+                    "id": "20",
+                    "path": "Waving at Christmas.ttf"
+                },
+                {
+                    "id": "21",
+                    "path": "MountainsofChristmas.ttf"
+                },
+                {
+                    "id": "22",
+                    "path": "LOLCHRISTMA.png"
+                },
+                {
+                    "id": "27",
+                    "path": "crhis.png"
+                },
+                {
+                    "id": "28",
+                    "path": "snowwwwww"
+                },
+                {
+                    "id": "35",
+                    "path": "SIX_CDE3FC9A-8FC8-40CB-9A34-09656A57AD3C.png"
+                },
+                {
+                    "id": "38",
+                    "path": "All Yellow.png"
+                },
+                {
+                    "id": "39",
+                    "path": "arrboaw-01.png"
+                },
+                {
+                    "id": "40",
+                    "path": "new newnew.png"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,331 @@
+{
+    "lens_id": "",
+    "document_id": "IBnDSVjvwdiZUCV03EP9",
+    "original_document_id": "IBnDSVjvwdiZUCV03EP9",
+    "version": "1",
+    "lastChanged": "1540230640831",
+    "preview": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "SmoothFollow"
+                    ],
+                    [
+                        "Sphere"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1540228476282928:1968",
+                    "1540228894682438:5167"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1540227381968787:1540",
+                    "name": "\/Resources\/Resource10.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1540228487480985:2407",
+                    "name": "\/Resources\/Resource15.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Sphere.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1540228487493331:2419",
+                    "name": "\/Resources\/Resource16",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1540228487494543:2431",
+                    "name": "\/Resources\/Resource17.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1540228487496459:2443",
+                    "name": "\/Resources\/Resource18.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1540228487497883:2455",
+                    "name": "\/Resources\/Resource19.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1540228894684992:5171",
+                    "name": "\/Resources\/Resource20.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1540228894701829:5183",
+                    "name": "\/Resources\/Resource21",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "AudioEffectComponent": {
+                    "presetsMap": "",
+                    "samplesMap": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1540228476282928:1968",
+                "4": "1540228487478220:2401",
+                "5": "1540228894682418:5164"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "resourceId": "8",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "resourceId": "9",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Sphere",
+                        "resourceId": "15",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "SmoothFollow",
+                        "resourceId": "10",
+                        "extension": "js"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "echopark_spec.png"
+                },
+                {
+                    "id": "10",
+                    "path": "SmoothFollow.js"
+                },
+                {
+                    "id": "15",
+                    "path": "Sphere.mesh"
+                }
+            ]
+        }
+    }
+}

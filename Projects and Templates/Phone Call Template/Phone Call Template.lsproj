@@ -1,0 +1,743 @@
+{
+    "lens_id": "",
+    "document_id": "tJB2aXWeh5Ev9Zzar7t2",
+    "original_document_id": "wqxATgWKgedldSr3bNI8",
+    "version": "1",
+    "lastChanged": "1540059460853",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Images"
+                    ],
+                    [
+                        "Images",
+                        "Accept Button"
+                    ],
+                    [
+                        "Images",
+                        "Answer Text"
+                    ],
+                    [
+                        "Images",
+                        "Background"
+                    ],
+                    [
+                        "Images",
+                        "Decline Button"
+                    ],
+                    [
+                        "Images",
+                        "Decline Text"
+                    ],
+                    [
+                        "Images",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Images",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Profile photo[REPLACE ME]"
+                    ],
+                    [
+                        "Ralphie Ringtone [REPLACE ME]"
+                    ],
+                    [
+                        "Ralphie [REPLACE ME]"
+                    ],
+                    [
+                        "Scripts",
+                        "The Call"
+                    ],
+                    [
+                        "Scripts",
+                        "Tween"
+                    ],
+                    [
+                        "Scripts",
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Scripts",
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Scripts",
+                        "Tween",
+                        "TweenTypes"
+                    ],
+                    [
+                        "Scripts",
+                        "Tween",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Scripts",
+                        "Tween",
+                        "TweenTypes",
+                        "TweenBillboard"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1539301406300471:3541"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "3e9bcd4ac5aa89de4374fff77962d72e",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "Ralphie Calling",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1539301201614526:912",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "C:\/Users\/Hal\/Desktop\/Accept Button.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1539301201693515:921",
+                    "name": "\/Resources\/Resource11.png",
+                    "sourceFilePath": "C:\/Users\/Hal\/Desktop\/Answer Text.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1539301201760682:930",
+                    "name": "\/Resources\/Resource12.png",
+                    "sourceFilePath": "C:\/Users\/Hal\/Desktop\/Decline Button.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1539301201810685:939",
+                    "name": "\/Resources\/Resource13.png",
+                    "sourceFilePath": "C:\/Users\/Hal\/Desktop\/Decline Text.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1539301208074266:1025",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1539301208192867:1048",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1539301253519592:1319",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1539301262869002:1797",
+                    "name": "\/Resources\/Resource20.png",
+                    "sourceFilePath": "C:\/Users\/Hal\/Desktop\/Background.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1539301406308320:3866",
+                    "name": "\/Resources\/Resource23.js",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/Tween.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1539301406315180:3886",
+                    "name": "\/Resources\/Resource25.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1539301406425252:3966",
+                    "name": "\/Resources\/Resource33.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1539301406429229:3976",
+                    "name": "\/Resources\/Resource34.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1539301425078103:8466",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1539301461194843:10994",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1539301497438482:12473",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1539301531582422:16541",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1539301699893301:18238",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1539302386472459:51809",
+                    "name": "\/Resources\/Resource48.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1539308728718919:113382",
+                    "name": "\/Resources\/Resource57",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1540017348420632:26063",
+                    "name": "\/Resources\/Resource78.mp3",
+                    "sourceFilePath": "C:\/Users\/Hal\/Desktop\/Ralphie Call.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "81",
+                    "uid": "1540017869815654:37940",
+                    "name": "\/Resources\/Resource81.mp4",
+                    "sourceFilePath": "C:\/Users\/Hal\/Desktop\/Ralphie Very Compressed.mp4",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "7"
+                },
+                {
+                    "resId": "89",
+                    "uid": "1540018689695562:84389",
+                    "name": "\/Resources\/Resource89.png",
+                    "sourceFilePath": "C:\/Users\/Hal\/Desktop\/Profile photo.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "91",
+                    "uid": "1540056243239248:17176",
+                    "name": "\/Resources\/Resource91",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "92",
+                    "uid": "1540056243239941:17186",
+                    "name": "Text",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "2",
+                    "type": "1",
+                    "subtype": "8"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "AudioEffectComponent": {
+                    "presetsMap": "",
+                    "samplesMap": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228044:84816",
+                "2": "1517446348228144:84822",
+                "3": "1539301208065192:966",
+                "4": "1539301208074567:1032",
+                "5": "1539301208078530:1033",
+                "6": "1539301253519500:1312",
+                "7": "1539301406300471:3541",
+                "8": "1539301425078009:8459",
+                "9": "1539301461194703:10987",
+                "10": "1539301497438385:12466",
+                "11": "1539301531582321:16534",
+                "12": "1539301699893199:18231",
+                "13": "1539302133052207:20755",
+                "14": "1539302653286229:60474",
+                "15": "1539308728599328:113367",
+                "16": "1540017424645998:30335",
+                "17": "1540056243230783:17171"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Images",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "echopark_diff",
+                                "resourceId": "8",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Accept Button",
+                                "resourceId": "10",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Answer Text",
+                                "resourceId": "11",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Decline Button",
+                                "resourceId": "12",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Decline Text",
+                                "resourceId": "13",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Background",
+                                "resourceId": "20",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "groups": [
+                            {
+                                "name": "Tween",
+                                "groups": [
+                                    {
+                                        "name": "TweenTypes",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenAlpha",
+                                                "resourceId": "33",
+                                                "extension": "js"
+                                            },
+                                            {
+                                                "name": "TweenBillboard",
+                                                "resourceId": "34",
+                                                "extension": "js"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "resources": [
+                                    {
+                                        "name": "Tween",
+                                        "resourceId": "23",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenManager",
+                                        "resourceId": "25",
+                                        "extension": "js"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "The Call",
+                                "resourceId": "48",
+                                "extension": "js"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "16",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Ralphie Ringtone [REPLACE ME]",
+                        "resourceId": "78",
+                        "extension": "mp3"
+                    },
+                    {
+                        "name": "Ralphie [REPLACE ME]",
+                        "resourceId": "81",
+                        "extension": "mp4"
+                    },
+                    {
+                        "name": "Profile photo[REPLACE ME]",
+                        "resourceId": "89",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "Images\/echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "Images\/echopark_spec.png"
+                },
+                {
+                    "id": "10",
+                    "path": "Images\/Accept Button.png"
+                },
+                {
+                    "id": "11",
+                    "path": "Images\/Answer Text.png"
+                },
+                {
+                    "id": "12",
+                    "path": "Images\/Decline Button.png"
+                },
+                {
+                    "id": "13",
+                    "path": "Images\/Decline Text.png"
+                },
+                {
+                    "id": "20",
+                    "path": "Images\/Background.png"
+                },
+                {
+                    "id": "23",
+                    "path": "Scripts\/Tween\/Tween.js"
+                },
+                {
+                    "id": "25",
+                    "path": "Scripts\/Tween\/TweenManager.js"
+                },
+                {
+                    "id": "33",
+                    "path": "Scripts\/Tween\/TweenTypes\/TweenAlpha.js"
+                },
+                {
+                    "id": "34",
+                    "path": "Scripts\/Tween\/TweenTypes\/TweenBillboard.js"
+                },
+                {
+                    "id": "48",
+                    "path": "Scripts\/The Call.js"
+                },
+                {
+                    "id": "78",
+                    "path": "Ralphie Ringtone [REPLACE ME].mp3"
+                },
+                {
+                    "id": "81",
+                    "path": "Ralphie [REPLACE ME].mp4"
+                },
+                {
+                    "id": "89",
+                    "path": "Profile photo[REPLACE ME].png"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1540017424645998:30335"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

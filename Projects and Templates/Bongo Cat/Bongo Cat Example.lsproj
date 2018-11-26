@@ -1,0 +1,604 @@
+{
+    "lens_id": "",
+    "document_id": "WaDIQVVlxUMiHUDxoOPo",
+    "original_document_id": "tUWJ8H93UXTsK0spUZzF",
+    "version": "1",
+    "lastChanged": "1541145444777",
+    "preview": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Images"
+                    ],
+                    [
+                        "Images",
+                        "Bongo Cat 1"
+                    ],
+                    [
+                        "Images",
+                        "Bongo Cat 2"
+                    ],
+                    [
+                        "Images",
+                        "Bongo Cat L"
+                    ],
+                    [
+                        "Images",
+                        "Bongo Cat R"
+                    ],
+                    [
+                        "Images",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Images",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Plane"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "Bongo Cat"
+                    ],
+                    [
+                        "Scripts",
+                        "Left Button"
+                    ],
+                    [
+                        "Scripts",
+                        "Right Button"
+                    ],
+                    [
+                        "Scripts",
+                        "Top Button"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1539129618547525:4321",
+                    "1539129679311571:9200",
+                    "1539129746126039:14888",
+                    "1539129783511673:20523"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true",
+            "show_snap_ui": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1539129614275435:4270",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "\/Users\/hal\/Desktop\/Lens Studio\/Bongo Cat\/Public\/Images\/Bongo Cat 1.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1539129614499481:4283",
+                    "name": "\/Resources\/Resource11.png",
+                    "sourceFilePath": "\/Users\/hal\/Desktop\/Lens Studio\/Bongo Cat\/Public\/Images\/Bongo Cat 2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1539129614562379:4295",
+                    "name": "\/Resources\/Resource12.png",
+                    "sourceFilePath": "\/Users\/hal\/Desktop\/Lens Studio\/Bongo Cat\/Public\/Images\/Bongo Cat L.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1539129614620580:4307",
+                    "name": "\/Resources\/Resource13.png",
+                    "sourceFilePath": "\/Users\/hal\/Desktop\/Lens Studio\/Bongo Cat\/Public\/Images\/Bongo Cat R.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1539129618550551:4416",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1539129618617977:4559",
+                    "name": "\/Resources\/Resource16",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1539129643215052:8151",
+                    "name": "\/Resources\/Resource17.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1539129679311691:9210",
+                    "name": "\/Resources\/Resource16",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1539129693418548:12721",
+                    "name": "\/Resources\/Resource23",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1539129693419446:12733",
+                    "name": "\/Resources\/Resource24.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1539129693420136:12745",
+                    "name": "\/Resources\/Resource25.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1539129693420669:12757",
+                    "name": "\/Resources\/Resource26.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1539129746126405:14907",
+                    "name": "\/Resources\/Resource16",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1539129746126888:14919",
+                    "name": "\/Resources\/Resource23",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1539129783511841:20542",
+                    "name": "\/Resources\/Resource16",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1539129783512444:20554",
+                    "name": "\/Resources\/Resource23",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1539129836787172:24710",
+                    "name": "\/Resources\/Resource31.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1539129942137436:26061",
+                    "name": "\/Resources\/Resource32.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1539129979977671:27453",
+                    "name": "\/Resources\/Resource33.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1539130014502455:29544",
+                    "name": "\/Resources\/Resource34.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "AudioEffectComponent": {
+                    "presetsMap": "",
+                    "samplesMap": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1539129618547525:4321",
+                "4": "1539129618550661:4425",
+                "5": "1539129618550819:4428",
+                "6": "1539129679311571:9200",
+                "7": "1539129693413472:12714",
+                "8": "1539129746126039:14888",
+                "9": "1539129746126327:14898",
+                "10": "1539129783511673:20523",
+                "11": "1539129783511767:20533",
+                "12": "1539130060662776:30911"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1539130060662776:30911"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Images",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "echopark_diff",
+                                "resourceId": "8",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Bongo Cat 1",
+                                "resourceId": "10",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Bongo Cat 2",
+                                "resourceId": "11",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Bongo Cat L",
+                                "resourceId": "12",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Bongo Cat R",
+                                "resourceId": "13",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Top Button",
+                                "resourceId": "31",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "Left Button",
+                                "resourceId": "32",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "Right Button",
+                                "resourceId": "33",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "Bongo Cat",
+                                "resourceId": "34",
+                                "extension": "js"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "14",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Plane",
+                        "resourceId": "17",
+                        "extension": "mesh"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "Images\/echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "Images\/echopark_spec.png"
+                },
+                {
+                    "id": "10",
+                    "path": "Images\/Bongo Cat 1.png"
+                },
+                {
+                    "id": "11",
+                    "path": "Images\/Bongo Cat 2.png"
+                },
+                {
+                    "id": "12",
+                    "path": "Images\/Bongo Cat L.png"
+                },
+                {
+                    "id": "13",
+                    "path": "Images\/Bongo Cat R.png"
+                },
+                {
+                    "id": "17",
+                    "path": "Plane.mesh"
+                },
+                {
+                    "id": "31",
+                    "path": "Scripts\/Top Button.js"
+                },
+                {
+                    "id": "32",
+                    "path": "Scripts\/Left Button.js"
+                },
+                {
+                    "id": "33",
+                    "path": "Scripts\/Right Button.js"
+                },
+                {
+                    "id": "34",
+                    "path": "Scripts\/Bongo Cat.js"
+                }
+            ]
+        }
+    }
+}

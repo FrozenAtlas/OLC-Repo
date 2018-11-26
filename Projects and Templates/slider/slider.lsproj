@@ -1,0 +1,360 @@
+{
+    "lens_id": "fe7341f0-df0c-431e-a388-c4b42f0a0c26",
+    "version": "1",
+    "lastChanged": "1540563090040",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Materials",
+                        "Material Left"
+                    ],
+                    [
+                        "Materials",
+                        "Material Right"
+                    ],
+                    [
+                        "Materials",
+                        "background"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "cursor"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "945d561afb5b6b65bb04b8da62d5b2b0",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Slider",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1540554571685873:1686",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1540554674815329:15805",
+                    "name": "\/Resources\/Resource14.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1540555670012774:35102",
+                    "name": "\/Resources\/Resource16",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1540559227970517:167903",
+                    "name": "\/Resources\/Resource19",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1540559300381234:174981",
+                    "name": "\/Resources\/Resource21",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1540559700953342:244538",
+                    "name": "\/Resources\/Resource22.png",
+                    "sourceFilePath": "\/Users\/robin\/Desktop\/cursor.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1540559965525975:255271",
+                    "name": "\/Resources\/Resource25",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "AudioEffectComponent": {
+                    "presetsMap": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1540554571679052:1591",
+                "1": "1540554571686599:1695",
+                "2": "1540554571686958:1698",
+                "3": "1540554590650223:4220",
+                "4": "1540559956576533:252844"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Material Right",
+                                "resourceId": "19",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Material Left",
+                                "resourceId": "21",
+                                "extension": ""
+                            },
+                            {
+                                "name": "background",
+                                "resourceId": "25",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "cursor",
+                                "resourceId": "22",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "resourceId": "8",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "resourceId": "9",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "10",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Script",
+                        "resourceId": "14",
+                        "extension": "js"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "echopark_spec.png"
+                },
+                {
+                    "id": "14",
+                    "path": "Script.js"
+                },
+                {
+                    "id": "22",
+                    "path": "Textures\/cursor.png"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
