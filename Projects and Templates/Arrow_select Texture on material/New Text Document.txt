@@ -1,0 +1,7 @@
+https://i.imgur.com/etjmiAG.gif
+cycle through a list of TEXTURES on ONE material.
+(backwards and forwards)
+Reference project
+(note: includes a clever way of dealing with going BACKWARDS in an array, worth checking out for newbs)
+
+Creator: Pandan#7422 /r/snaplenses discord

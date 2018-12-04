@@ -1,0 +1,623 @@
+{
+    "lens_id": "",
+    "document_id": "A_xUAK_JC_7-heWcumpT",
+    "original_document_id": "v5HeyIJQOPpN2LY_oKUz",
+    "version": "1",
+    "lastChanged": "1543872990239",
+    "preview": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "2D_assets"
+                    ],
+                    [
+                        "2D_assets",
+                        "arrow_1"
+                    ],
+                    [
+                        "2D_assets",
+                        "tile_bricks"
+                    ],
+                    [
+                        "2D_assets",
+                        "tile_wood"
+                    ],
+                    [
+                        "2D_assets",
+                        "wool"
+                    ],
+                    [
+                        "Arrow_Button"
+                    ],
+                    [
+                        "Box"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "arrow"
+                    ],
+                    [
+                        "Materials",
+                        "invisible_forHitboxes"
+                    ],
+                    [
+                        "Materials",
+                        "material_to_change"
+                    ],
+                    [
+                        "Set_Texture"
+                    ],
+                    [
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenBillboard"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenChain"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenColor"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenValue"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1543866904496045:43814"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true",
+            "show_snap_ui": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1543870034075764:18374",
+                    "1543870178672654:55106"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1543866795218503:42941",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "C:\/Users\/HAUS\/Dropbox\/HAUS\/Arrow_select\/Public\/tile_bricks.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1543866795231667:42950",
+                    "name": "\/Resources\/Resource11.png",
+                    "sourceFilePath": "C:\/Users\/HAUS\/Dropbox\/HAUS\/Arrow_select\/Public\/tile_wood.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1543866795284198:42959",
+                    "name": "\/Resources\/Resource12.png",
+                    "sourceFilePath": "C:\/Users\/HAUS\/Dropbox\/HAUS\/Arrow_select\/Public\/arrow_1.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1543866814158551:42969",
+                    "name": "\/Resources\/Resource13",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1543866837891080:43104",
+                    "name": "\/Resources\/Resource17.mesh",
+                    "sourceFilePath": "C:\/Program Files\/Snap Inc\/\/Studio3DResources.bundle\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1543867453236707:44286",
+                    "name": "\/Resources\/Resource21",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1543867617712662:45263",
+                    "name": "\/Resources\/Resource23.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1543869229665750:49626",
+                    "name": "\/Resources\/Resource24.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1543869909004516:51758",
+                    "name": "\/Resources\/Resource25.png",
+                    "sourceFilePath": "C:\/Users\/HAUS\/Dropbox\/HAUS\/wool.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1543870085466375:54139",
+                    "name": "\/Resources\/Resource28",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1543871948383616:58835",
+                    "name": "\/Resources\/Resource30.js",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/Tween.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1543871948384699:58845",
+                    "name": "\/Resources\/Resource31.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1543871948385718:58855",
+                    "name": "\/Resources\/Resource32.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1543871948428199:58906",
+                    "name": "\/Resources\/Resource37.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1543871948447698:58926",
+                    "name": "\/Resources\/Resource39.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1543871948448895:58936",
+                    "name": "\/Resources\/Resource40.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1543871948449961:58946",
+                    "name": "\/Resources\/Resource41.js",
+                    "sourceFilePath": "\/Users\/corvyn.kusuma\/Snapchat\/studio3d-support\/helper_scripts\/Tween\/TestProject\/Public\/Tween\/TweenTypes\/GenericTween.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1543871948450961:58956",
+                    "name": "\/Resources\/Resource42.js",
+                    "sourceFilePath": "\/Users\/corvyn.kusuma\/Snapchat\/studio3d-support\/helper_scripts\/Tween\/TestProject\/Public\/Tween\/TweenTypes\/TweenChain.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "AudioEffectComponent": {
+                    "presetsMap": "",
+                    "samplesMap": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1543867685163254:45502",
+                "1": "1543871948380265:58510"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "2D_assets",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "wool",
+                                "resourceId": "25",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "arrow_1",
+                                "resourceId": "12",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "tile_wood",
+                                "resourceId": "11",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "tile_bricks",
+                                "resourceId": "10",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "invisible_forHitboxes",
+                                "resourceId": "28",
+                                "extension": ""
+                            },
+                            {
+                                "name": "arrow",
+                                "resourceId": "21",
+                                "extension": ""
+                            },
+                            {
+                                "name": "material_to_change",
+                                "resourceId": "13",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tween",
+                        "groups": [
+                            {
+                                "name": "TweenTypes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenTransform",
+                                        "resourceId": "31",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenColor",
+                                        "resourceId": "37",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenAlpha",
+                                        "resourceId": "39",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenBillboard",
+                                        "resourceId": "40",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenValue",
+                                        "resourceId": "41",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenChain",
+                                        "resourceId": "42",
+                                        "extension": "js"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Tween",
+                                "resourceId": "30",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "TweenManager",
+                                "resourceId": "32",
+                                "extension": "js"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Box",
+                        "resourceId": "17",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "Set_Texture",
+                        "resourceId": "23",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Arrow_Button",
+                        "resourceId": "24",
+                        "extension": "js"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "10",
+                    "path": "2D_assets\/tile_bricks.png"
+                },
+                {
+                    "id": "11",
+                    "path": "2D_assets\/tile_wood.png"
+                },
+                {
+                    "id": "12",
+                    "path": "2D_assets\/arrow_1.png"
+                },
+                {
+                    "id": "17",
+                    "path": "Box.mesh"
+                },
+                {
+                    "id": "23",
+                    "path": "Set_Texture.js"
+                },
+                {
+                    "id": "24",
+                    "path": "Arrow_Button.js"
+                },
+                {
+                    "id": "25",
+                    "path": "2D_assets\/wool.png"
+                },
+                {
+                    "id": "30",
+                    "path": "Tween\/Tween.js"
+                },
+                {
+                    "id": "31",
+                    "path": "Tween\/TweenTypes\/TweenTransform.js"
+                },
+                {
+                    "id": "32",
+                    "path": "Tween\/TweenManager.js"
+                },
+                {
+                    "id": "37",
+                    "path": "Tween\/TweenTypes\/TweenColor.js"
+                },
+                {
+                    "id": "39",
+                    "path": "Tween\/TweenTypes\/TweenAlpha.js"
+                },
+                {
+                    "id": "40",
+                    "path": "Tween\/TweenTypes\/TweenBillboard.js"
+                },
+                {
+                    "id": "41",
+                    "path": "Tween\/TweenTypes\/TweenValue.js"
+                },
+                {
+                    "id": "42",
+                    "path": "Tween\/TweenTypes\/TweenChain.js"
+                }
+            ]
+        }
+    }
+}
