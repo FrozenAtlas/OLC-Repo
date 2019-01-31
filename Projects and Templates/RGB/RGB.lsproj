@@ -1,0 +1,298 @@
+{
+    "lens_id": "",
+    "document_id": "DrSvnzy5P0FHqxAGotg-",
+    "original_document_id": "YP4ijMSdb5bhgeU2ltaN",
+    "version": "1",
+    "lastChanged": "1548874100775",
+    "preview": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Blue"
+                    ],
+                    [
+                        "Green"
+                    ],
+                    [
+                        "LowResCamera Output"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Red"
+                    ],
+                    [
+                        "Script"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1548873329847845:6804",
+                    "name": "\/Resources\/Resource10",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1548873329904906:6814",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1548873330027279:6824",
+                    "name": "\/Resources\/Resource12",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1548873330032108:6834",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1548873355687085:8162",
+                    "name": "LowResCamera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1548873360342780:8175",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "AudioEffectComponent": {
+                    "presetsMap": "",
+                    "samplesMap": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1548873329782626:6747",
+                "1": "1548873329782701:6751",
+                "2": "1548873329782708:6753",
+                "3": "1548873329807327:6763",
+                "4": "1548873329807520:6773",
+                "5": "1548873331211574:7561"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Red",
+                        "resourceId": "10",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Green",
+                        "resourceId": "11",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Blue",
+                        "resourceId": "12",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Script",
+                        "resourceId": "13",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "LowResCamera Output",
+                        "resourceId": "20",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "21",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "13",
+                    "path": "Script.js"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1548873329782708:6753"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
