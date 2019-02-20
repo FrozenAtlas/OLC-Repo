@@ -1,0 +1,1615 @@
+{
+    "lens_id": "20cafea4-4dc4-4dba-ba92-5751c46f9e77",
+    "document_id": "fYFlYfJiC68-whEHbCVG",
+    "original_document_id": "fYFlYfJiC68-whEHbCVG",
+    "version": "2",
+    "lastChanged": "1547547677157",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Contrast Button"
+                    ],
+                    [
+                        "Hue Button"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Plane"
+                    ],
+                    [
+                        "Temp1 Button"
+                    ],
+                    [
+                        "Temp2 Button"
+                    ],
+                    [
+                        "Temp3 Button"
+                    ],
+                    [
+                        "Temp4 Button"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "ExampleTweenValueScript "
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Materials"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Materials",
+                        "TweenBoxDiffuse "
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Materials",
+                        "TweenBoxDiffuse_Alt "
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Materials",
+                        "TweenSphereDiffuse"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Meshes"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Meshes",
+                        "TweenBox"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Meshes",
+                        "TweenSphere "
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenBoxTextures"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenBoxTextures",
+                        "Base"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenBoxTextures",
+                        "DiffuseEnvmap"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenBoxTextures",
+                        "Normal"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenSphereTextures"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenSphereTextures",
+                        "Base"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenSphereTextures",
+                        "Normal"
+                    ],
+                    [
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenBillboard"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenChain"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenColor"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenValue"
+                    ],
+                    [
+                        "backdrop"
+                    ],
+                    [
+                        "contrast"
+                    ],
+                    [
+                        "contrasttt"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "hueandsatopen"
+                    ],
+                    [
+                        "huesatdown"
+                    ],
+                    [
+                        "huesatup"
+                    ],
+                    [
+                        "right arrow"
+                    ],
+                    [
+                        "template"
+                    ],
+                    [
+                        "template1"
+                    ],
+                    [
+                        "template2"
+                    ],
+                    [
+                        "template3"
+                    ],
+                    [
+                        "template4"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517446348227994:84813",
+                    "1517446348228144:84822",
+                    "1528843813151434:5126",
+                    "1547504291261719:14059",
+                    "1547504404086316:17796",
+                    "1547504456963530:19980",
+                    "1547504490654549:27341",
+                    "1547505396627172:57213",
+                    "1547505483344889:58806",
+                    "1547505493636917:60423",
+                    "1547505493645617:60518",
+                    "1547506175767278:164591"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "634c823b1a9c35cb656d8ecc89f47b3c",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "SimpleTweenMenuBar",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1547504404086380:17801",
+                    "1547507019644624:248401",
+                    "1547507395358551:270117"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1547504250276838:12327",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1547504250319973:12337",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1547504261311631:12550",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1547504261415672:12644",
+                    "name": "\/Resources\/Resource14",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1547504291351779:14145",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1547504305890241:14829",
+                    "name": "\/Resources\/Resource19.png",
+                    "sourceFilePath": "C:\/Users\/Dad\/Desktop\/photo editor\/huesatdown.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1547504306149106:14940",
+                    "name": "\/Resources\/Resource20.png",
+                    "sourceFilePath": "C:\/Users\/Dad\/Desktop\/photo editor\/huesatup.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1547504374956310:15293",
+                    "name": "\/Resources\/Resource21.png",
+                    "sourceFilePath": "C:\/Users\/Dad\/Desktop\/photo editor\/backdrop.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1547504404086402:17803",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1547504456963732:19992",
+                    "name": "\/Resources\/Resource14",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1547504490662167:27666",
+                    "name": "\/Resources\/Resource28.js",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/Tween.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1547504490664424:27676",
+                    "name": "\/Resources\/Resource29.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1547504490665759:27686",
+                    "name": "\/Resources\/Resource30.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1547504490667104:27696",
+                    "name": "\/Resources\/Resource31.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1547504490687602:27706",
+                    "name": "\/Resources\/Resource32",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1547504490704130:27716",
+                    "name": "\/Resources\/Resource33.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1547504490737265:27726",
+                    "name": "\/Resources\/Resource34.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1547504490740812:27736",
+                    "name": "\/Resources\/Resource35.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1547504490743617:27746",
+                    "name": "\/Resources\/Resource36.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1547504490761030:27756",
+                    "name": "\/Resources\/Resource37",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1547504490763204:27766",
+                    "name": "\/Resources\/Resource38.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1547504490764428:27776",
+                    "name": "\/Resources\/Resource39.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1547504490765729:27786",
+                    "name": "\/Resources\/Resource40.js",
+                    "sourceFilePath": "\/Users\/corvyn.kusuma\/Snapchat\/studio3d-support\/helper_scripts\/Tween\/TestProject\/Public\/Tween\/TweenTypes\/GenericTween.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1547504490766941:27796",
+                    "name": "\/Resources\/Resource41.js",
+                    "sourceFilePath": "\/Users\/corvyn.kusuma\/Snapchat\/studio3d-support\/helper_scripts\/Tween\/TestProject\/Public\/Tween\/TweenTypes\/TweenChain.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1547504490781768:27806",
+                    "name": "\/Resources\/Resource42",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1547504490783645:27816",
+                    "name": "\/Resources\/Resource43.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1547504490785764:27826",
+                    "name": "\/Resources\/Resource44.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1547504490788412:27836",
+                    "name": "\/Resources\/Resource45.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Sphere.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1547504490789548:27846",
+                    "name": "\/Resources\/Resource46.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1547504870953804:54804",
+                    "name": "\/Resources\/Resource47.png",
+                    "sourceFilePath": "C:\/Users\/Dad\/Desktop\/photo editor\/hueandsatopen.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1547505129171720:55046",
+                    "name": "\/Resources\/Resource48.png",
+                    "sourceFilePath": "C:\/Users\/Dad\/Desktop\/contrast.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1547505396627272:57220",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1547505474128514:58576",
+                    "name": "\/Resources\/Resource50.png",
+                    "sourceFilePath": "C:\/Users\/Dad\/Desktop\/template.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1547505483344991:58813",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1547505493637098:60430",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1547505493645691:60525",
+                    "name": "\/Resources\/Resource18",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1547506175857234:164677",
+                    "name": "\/Resources\/Resource55",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1547506275500314:167216",
+                    "name": "\/Resources\/Resource56.png",
+                    "sourceFilePath": "C:\/Users\/Dad\/Desktop\/right arrow.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1547506706016069:196371",
+                    "name": "\/Resources\/Resource57.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1547506706029847:196381",
+                    "name": "\/Resources\/Resource58",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1547506706031521:196391",
+                    "name": "\/Resources\/Resource59.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1547506706033110:196401",
+                    "name": "\/Resources\/Resource60.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1547506706062779:196411",
+                    "name": "\/Resources\/Resource61.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1547506770763011:202698",
+                    "name": "\/Resources\/Resource58",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1547506778290125:204962",
+                    "name": "\/Resources\/Resource58",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1547506788425554:207436",
+                    "name": "\/Resources\/Resource58",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1547506801806941:209756",
+                    "name": "\/Resources\/Resource58",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1547506811857321:212104",
+                    "name": "\/Resources\/Resource58",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "67",
+                    "uid": "1547506824029572:214488",
+                    "name": "\/Resources\/Resource58",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1547507136069245:225068",
+                    "name": "\/Resources\/Resource68.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "69",
+                    "uid": "1547507374256505:234797",
+                    "name": "\/Resources\/Resource69.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1547508059758156:387425",
+                    "name": "\/Resources\/Resource70.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1547508083231476:391037",
+                    "name": "\/Resources\/Resource71.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "72",
+                    "uid": "1547508124305907:402447",
+                    "name": "\/Resources\/Resource72.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "73",
+                    "uid": "1547508125997001:402459",
+                    "name": "\/Resources\/Resource73.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "74",
+                    "uid": "1547508641498914:525551",
+                    "name": "\/Resources\/Resource55",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1547508641500163:525561",
+                    "name": "\/Resources\/Resource58",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1547509959808956:593359",
+                    "name": "\/Resources\/Resource14",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "77",
+                    "uid": "1547509961591925:602465",
+                    "name": "\/Resources\/Resource14",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1547509964071844:611791",
+                    "name": "\/Resources\/Resource14",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "79",
+                    "uid": "1547509977595124:621373",
+                    "name": "\/Resources\/Resource79.png",
+                    "sourceFilePath": "C:\/Users\/Dad\/Desktop\/template1.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "80",
+                    "uid": "1547509977674194:621484",
+                    "name": "\/Resources\/Resource80.png",
+                    "sourceFilePath": "C:\/Users\/Dad\/Desktop\/template2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "81",
+                    "uid": "1547509977977028:621595",
+                    "name": "\/Resources\/Resource81.png",
+                    "sourceFilePath": "C:\/Users\/Dad\/Desktop\/template3.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "82",
+                    "uid": "1547509978056353:621706",
+                    "name": "\/Resources\/Resource82.png",
+                    "sourceFilePath": "C:\/Users\/Dad\/Desktop\/template4.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1547509990845437:622540",
+                    "name": "\/Resources\/Resource14",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "84",
+                    "uid": "1547510004836859:633276",
+                    "name": "\/Resources\/Resource14",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "85",
+                    "uid": "1547510041421092:643453",
+                    "name": "\/Resources\/Resource85.png",
+                    "sourceFilePath": "C:\/Users\/Dad\/Desktop\/contrasttt.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1547504250273728:12322",
+                "4": "1547504261275728:12486",
+                "5": "1547504261322465:12557",
+                "6": "1547504261323140:12558",
+                "7": "1547504291261719:14059",
+                "8": "1547504404086316:17796",
+                "9": "1547504456963530:19980",
+                "10": "1547504490654549:27341",
+                "11": "1547505396627172:57213",
+                "12": "1547505483344889:58806",
+                "13": "1547505493636917:60423",
+                "14": "1547505493645617:60518",
+                "15": "1547506175767278:164591",
+                "16": "1547506706009054:196367",
+                "17": "1547506770762923:202694",
+                "18": "1547506778290044:204958",
+                "19": "1547506788425440:207432",
+                "20": "1547506801806886:209752",
+                "21": "1547506811857262:212100",
+                "22": "1547506824029514:214484",
+                "23": "1547508641497716:525160",
+                "24": "1547508641498862:525547",
+                "25": "1547509959808524:593289",
+                "26": "1547509961591263:602395",
+                "27": "1547509964071398:611721",
+                "28": "1547509990844893:622470",
+                "29": "1547510004836507:633206"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Tween",
+                        "groups": [
+                            {
+                                "name": "TweenTypes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenTransform",
+                                        "resourceId": "29",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenColor",
+                                        "resourceId": "36",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenAlpha",
+                                        "resourceId": "38",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenBillboard",
+                                        "resourceId": "39",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenValue",
+                                        "resourceId": "40",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenChain",
+                                        "resourceId": "41",
+                                        "extension": "js"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "ExampleResources [REMOVE_ME]",
+                                "groups": [
+                                    {
+                                        "name": "Meshes",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenBox",
+                                                "resourceId": "31",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "TweenSphere ",
+                                                "resourceId": "45",
+                                                "extension": "mesh"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenBoxDiffuse ",
+                                                "resourceId": "32",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "TweenBoxDiffuse_Alt ",
+                                                "resourceId": "37",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "TweenSphereDiffuse",
+                                                "resourceId": "42",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Textures",
+                                        "groups": [
+                                            {
+                                                "name": "TweenBoxTextures",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Base",
+                                                        "resourceId": "33",
+                                                        "extension": "png"
+                                                    },
+                                                    {
+                                                        "name": "DiffuseEnvmap",
+                                                        "resourceId": "34",
+                                                        "extension": "png"
+                                                    },
+                                                    {
+                                                        "name": "Normal",
+                                                        "resourceId": "35",
+                                                        "extension": "png"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "TweenSphereTextures",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Base",
+                                                        "resourceId": "43",
+                                                        "extension": "png"
+                                                    },
+                                                    {
+                                                        "name": "Normal",
+                                                        "resourceId": "44",
+                                                        "extension": "png"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "resources": ""
+                                    }
+                                ],
+                                "resources": [
+                                    {
+                                        "name": "ExampleTweenValueScript ",
+                                        "resourceId": "46",
+                                        "extension": "js"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Tween",
+                                "resourceId": "28",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "TweenManager",
+                                "resourceId": "30",
+                                "extension": "js"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "resourceId": "8",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "resourceId": "9",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "12",
+                        "extension": ""
+                    },
+                    {
+                        "name": "huesatdown",
+                        "resourceId": "19",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "huesatup",
+                        "resourceId": "20",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "backdrop",
+                        "resourceId": "21",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "hueandsatopen",
+                        "resourceId": "47",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "contrast",
+                        "resourceId": "48",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "template",
+                        "resourceId": "50",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "right arrow",
+                        "resourceId": "56",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Plane",
+                        "resourceId": "57",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "Hue Button",
+                        "resourceId": "68",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Contrast Button",
+                        "resourceId": "69",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Temp1 Button",
+                        "resourceId": "70",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Temp2 Button",
+                        "resourceId": "71",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Temp3 Button",
+                        "resourceId": "72",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Temp4 Button",
+                        "resourceId": "73",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "template1",
+                        "resourceId": "79",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "template2",
+                        "resourceId": "80",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "template3",
+                        "resourceId": "81",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "template4",
+                        "resourceId": "82",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "contrasttt",
+                        "resourceId": "85",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "echopark_spec.png"
+                },
+                {
+                    "id": "19",
+                    "path": "huesatdown.png"
+                },
+                {
+                    "id": "20",
+                    "path": "huesatup.png"
+                },
+                {
+                    "id": "21",
+                    "path": "backdrop.png"
+                },
+                {
+                    "id": "28",
+                    "path": "Tween\/Tween.js"
+                },
+                {
+                    "id": "29",
+                    "path": "Tween\/TweenTypes\/TweenTransform.js"
+                },
+                {
+                    "id": "30",
+                    "path": "Tween\/TweenManager.js"
+                },
+                {
+                    "id": "31",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Meshes\/TweenBox.mesh"
+                },
+                {
+                    "id": "33",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Textures\/TweenBoxTextures\/Base.png"
+                },
+                {
+                    "id": "34",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Textures\/TweenBoxTextures\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "35",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Textures\/TweenBoxTextures\/Normal.png"
+                },
+                {
+                    "id": "36",
+                    "path": "Tween\/TweenTypes\/TweenColor.js"
+                },
+                {
+                    "id": "38",
+                    "path": "Tween\/TweenTypes\/TweenAlpha.js"
+                },
+                {
+                    "id": "39",
+                    "path": "Tween\/TweenTypes\/TweenBillboard.js"
+                },
+                {
+                    "id": "40",
+                    "path": "Tween\/TweenTypes\/TweenValue.js"
+                },
+                {
+                    "id": "41",
+                    "path": "Tween\/TweenTypes\/TweenChain.js"
+                },
+                {
+                    "id": "43",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Textures\/TweenSphereTextures\/Base.png"
+                },
+                {
+                    "id": "44",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Textures\/TweenSphereTextures\/Normal.png"
+                },
+                {
+                    "id": "45",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Meshes\/TweenSphere .mesh"
+                },
+                {
+                    "id": "46",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/ExampleTweenValueScript .js"
+                },
+                {
+                    "id": "47",
+                    "path": "hueandsatopen.png"
+                },
+                {
+                    "id": "48",
+                    "path": "contrast.png"
+                },
+                {
+                    "id": "50",
+                    "path": "template.png"
+                },
+                {
+                    "id": "56",
+                    "path": "right arrow.png"
+                },
+                {
+                    "id": "57",
+                    "path": "Plane.mesh"
+                },
+                {
+                    "id": "68",
+                    "path": "Hue Button.js"
+                },
+                {
+                    "id": "69",
+                    "path": "Contrast Button.js"
+                },
+                {
+                    "id": "70",
+                    "path": "Temp1 Button.js"
+                },
+                {
+                    "id": "71",
+                    "path": "Temp2 Button.js"
+                },
+                {
+                    "id": "72",
+                    "path": "Temp3 Button.js"
+                },
+                {
+                    "id": "73",
+                    "path": "Temp4 Button.js"
+                },
+                {
+                    "id": "79",
+                    "path": "template1.png"
+                },
+                {
+                    "id": "80",
+                    "path": "template2.png"
+                },
+                {
+                    "id": "81",
+                    "path": "template3.png"
+                },
+                {
+                    "id": "82",
+                    "path": "template4.png"
+                },
+                {
+                    "id": "85",
+                    "path": "contrasttt.png"
+                }
+            ]
+        }
+    }
+}
