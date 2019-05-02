@@ -3,7 +3,7 @@
     "document_id": "bKHoeQ_Gg6Wox7ZT-erm",
     "original_document_id": "nU3xImN7tG9-422nlHH_",
     "version": "14",
-    "lastChanged": "1556768182335",
+    "lastChanged": "1556777618574",
     "preview": "",
     "videoPreview": "",
     "videoPreviewUpdateTime": "",
@@ -263,6 +263,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1556777587697897:3535",
+                    "name": "Files\/File39.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ]
         },
@@ -476,6 +484,14 @@
                 {
                     "k": "38",
                     "v": "Files\/File38.js"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
                 }
             ]
         },
@@ -547,6 +563,10 @@
                     {
                         "k": "184",
                         "v": "Scripts"
+                    },
+                    {
+                        "k": "185",
+                        "v": "BW.png"
                     }
                 ],
                 "hashes": [
@@ -633,27 +653,38 @@
                     {
                         "k": "183",
                         "v": "184f33b0ddedbe58366559e35a85c0b6"
+                    },
+                    {
+                        "k": "185",
+                        "v": "6b3b75dec30c055a2a5b5cd2be2c1e5d"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-05-01T22:35:14",
+                        "lastModified": "2019-05-02T00:24:53",
                         "name": "Public",
-                        "hash": "78c305b99ad8bbc44089ee491bafda53",
+                        "hash": "6f30519ade32325521aefe4dd5e24bd2",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-05-01T22:31:12",
+                                "lastModified": "2019-05-01T22:31:14",
                                 "name": "Background [INVERT BASE COLOR].lsmat",
                                 "hash": "2f79ce1f50ad612bb5d57e75cb8381b3",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-05-01T22:31:02",
+                                "lastModified": "2019-05-01T22:31:04",
                                 "name": "Brush [INVERT BASE COLOR].lsmat",
                                 "hash": "31c6d6f2fb7328bd0951292d178c78ae",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-02-05T17:08:28",
+                                "name": "BW.png",
+                                "hash": "6b3b75dec30c055a2a5b5cd2be2c1e5d",
                                 "children": ""
                             },
                             {
@@ -665,34 +696,34 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-05-01T22:35:14",
+                                "lastModified": "2019-05-01T22:35:16",
                                 "name": "Materials",
                                 "hash": "c9b81acaebb64c6fc405e25fc8814e02",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-01T22:29:33",
+                                        "lastModified": "2019-05-01T22:29:34",
                                         "name": "Edge Detection.lsmat",
                                         "hash": "93f9293e355427e264f59d4fec093580",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-01T22:29:20",
+                                        "lastModified": "2019-05-01T22:29:22",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-01T22:29:32",
+                                        "lastModified": "2019-05-01T22:29:34",
                                         "name": "Opacity.lsmat",
                                         "hash": "d726b609e56e87484c8f8184bcd23f67",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-01T22:29:33",
+                                        "lastModified": "2019-05-01T22:29:34",
                                         "name": "Pixelization.lsmat",
                                         "hash": "0e6782103e5661566599e3025eb6a490",
                                         "children": ""
@@ -701,27 +732,27 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-05-01T22:35:14",
+                                "lastModified": "2019-05-01T22:35:16",
                                 "name": "Scripts",
                                 "hash": "c01a754bf538695d161b74c9f3364778",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-01T21:35:24",
+                                        "lastModified": "2019-05-01T21:35:26",
                                         "name": "Behavior.js",
                                         "hash": "25b3088f83559ad0a781e029381e3b6d",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-01T22:30:20",
+                                        "lastModified": "2019-05-01T22:30:22",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-01T22:35:03",
+                                        "lastModified": "2019-05-01T22:35:04",
                                         "name": "Instructions.js",
                                         "hash": "184f33b0ddedbe58366559e35a85c0b6",
                                         "children": ""
@@ -730,27 +761,27 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-05-01T22:35:15",
+                                "lastModified": "2019-05-01T22:35:16",
                                 "name": "Textures",
                                 "hash": "346512dbcd88592e2a203e166a17f233",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-01T21:25:42",
+                                        "lastModified": "2019-05-01T21:25:44",
                                         "name": "bg.png",
                                         "hash": "ef35dd4462013d45085d6e08598e00fa",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-01T21:26:36",
+                                        "lastModified": "2019-05-01T21:26:38",
                                         "name": "brush.png",
                                         "hash": "5b8701eee8aec3c495f405c479ca2dff",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-02-05T17:08:28",
+                                        "lastModified": "2019-02-05T18:08:28",
                                         "name": "Clean.png",
                                         "hash": "820e2f9c69453b8fe33107601e31c34a",
                                         "children": ""
@@ -771,7 +802,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-01T22:29:38",
+                                        "lastModified": "2019-05-01T22:29:40",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1048,6 +1079,19 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "BW",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "34",
+                        "dependency": "0",
+                        "uid": "1556777587697897:3535",
+                        "fileId": "39",
+                        "originalId": "40",
+                        "publicId": "185",
+                        "source": "C:\/Users\/Doudnikov\/Documents\/OLC-Repo\/Projects and Templates\/Hand Paint Template\/Public\/BW.png",
+                        "additional": ""
                     }
                 ]
             }
