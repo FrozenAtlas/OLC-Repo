@@ -1,0 +1,2283 @@
+{
+    "lens_id": "",
+    "document_id": "nEYqYqijLFCJ2922RPRC",
+    "original_document_id": "g9FFPKUO8vafuOaVGMdd",
+    "version": "14",
+    "lastChanged": "1565721178691",
+    "preview": "C:\/Users\/Max\/Desktop\/v018_v2.0.1\/v006\/KeyboardTemplate\/icon.png",
+    "videoPreview": "",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Materials"
+                    ],
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Materials",
+                        "text_toucharea_seethrough"
+                    ],
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Materials",
+                        "touchprotect_seethrough"
+                    ],
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Scripts",
+                        "Key_Start"
+                    ],
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Scripts",
+                        "Key_TouchEnded"
+                    ],
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Scripts",
+                        "Key_TouchStarted"
+                    ],
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Scripts",
+                        "Keyboard_Main"
+                    ],
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Scripts",
+                        "TouchSlideText"
+                    ],
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Scripts",
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Scripts",
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Scripts",
+                        "Tween",
+                        "Types",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Scripts",
+                        "Tween",
+                        "Types",
+                        "TweenChain"
+                    ],
+                    [
+                        "Keyboard",
+                        "Internal",
+                        "Scripts",
+                        "Tween",
+                        "Types",
+                        "TweenScreenTransform"
+                    ],
+                    [
+                        "Keyboard",
+                        "[EDIT_ME]",
+                        "Fonts"
+                    ],
+                    [
+                        "Keyboard",
+                        "[EDIT_ME]",
+                        "Fonts",
+                        "Merriweather"
+                    ],
+                    [
+                        "Keyboard",
+                        "[EDIT_ME]",
+                        "Materials"
+                    ],
+                    [
+                        "Keyboard",
+                        "[EDIT_ME]",
+                        "Materials",
+                        "key_active"
+                    ],
+                    [
+                        "Keyboard",
+                        "[EDIT_ME]",
+                        "Materials",
+                        "key_idle"
+                    ],
+                    [
+                        "Keyboard",
+                        "[EDIT_ME]",
+                        "Materials",
+                        "key_press"
+                    ],
+                    [
+                        "Keyboard",
+                        "[EDIT_ME]",
+                        "Materials",
+                        "toggle_idle"
+                    ],
+                    [
+                        "Keyboard",
+                        "[EDIT_ME]",
+                        "Scripts",
+                        "GetKeyboardText"
+                    ],
+                    [
+                        "Keyboard",
+                        "[EDIT_ME]",
+                        "Textures"
+                    ],
+                    [
+                        "Keyboard",
+                        "[EDIT_ME]",
+                        "Textures",
+                        "tex_generic"
+                    ],
+                    [
+                        "Stream"
+                    ],
+                    [
+                        "Stream",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Stream",
+                        "Render Target"
+                    ],
+                    [
+                        "[REMOVE_ME]"
+                    ],
+                    [
+                        "[REMOVE_ME]",
+                        "Rotating"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1565703679678725:1683",
+                    "1565703699315284:1712",
+                    "1565703736775301:1849",
+                    "1565703773420332:4444",
+                    "1565703851256608:4935"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "634c823b1a9c35cb656d8ecc89f47b3c",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "KeyboardTemplate",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1565703715358102:1770",
+                    "1565704097322240:5762",
+                    "1565709666491123:10328"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "2",
+                    "v": "0"
+                }
+            ]
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "4",
+                    "uid": "1565709325698761:2547",
+                    "name": "Files\/File2",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1565709326047931:2577",
+                    "name": "Files\/File4.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "6",
+                    "uid": "1565709326770985:2599",
+                    "name": "Files\/File6",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1565709328078284:2727",
+                    "name": "Files\/File8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1565709329180522:2865",
+                    "name": "Files\/File10",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1565709330729263:3007",
+                    "name": "Files\/File12",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1565709332104263:3157",
+                    "name": "Files\/File14",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1565709435911532:3886",
+                    "name": "Files\/File16.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1565709436094607:3898",
+                    "name": "Files\/File17.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1565709436179155:4030",
+                    "name": "Files\/File18.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1565709436254921:4042",
+                    "name": "Files\/File19.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1565709436396145:4056",
+                    "name": "Files\/File20.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1565709465068889:4439",
+                    "name": "Files\/File21.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1565709479307370:4754",
+                    "name": "Files\/File22.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1565709597676433:6839",
+                    "name": "Files\/File23.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1565709597825064:6851",
+                    "name": "Files\/File24.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1565709616428373:8080",
+                    "name": "Files\/File25.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1565709616615609:8092",
+                    "name": "Files\/File26.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1565709616782341:8414",
+                    "name": "Files\/File27.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1565718332857026:21598",
+                    "name": "Files\/File28.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1565703752934876:2231",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565709845929087:18754",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565709888885929:24450",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565710614540538:5558",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565710660872529:6922",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565711306488421:19182",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712441070342:66943",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712473797331:74946",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712475942933:77891",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712476926298:80912",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712477301121:81329",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712478349803:84579",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712478795352:86444",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712479682891:88407",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712480104139:90371",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712481097000:92438",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712481506097:94500",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712482489491:96673",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712482922321:98835",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712483884958:101112",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712484365143:103382",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712485358953:105761",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712485845348:108123",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712486838145:110608",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712487291324:113072",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712488249365:115659",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712488734236:118223",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712489676991:120921",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712490162226:123585",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712491153720:126380",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712491599725:129142",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712492271914:132035",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712493260597:134961",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712493732465:137873",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712494676589:140935",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712495209824:143954",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712496238662:147116",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712496788953:150233",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1565712497767358:153501",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1565703679678725:1683",
+                "1": "1565703699315284:1712",
+                "2": "1565703715358102:1770",
+                "3": "1565703736775301:1849",
+                "4": "1565703752934453:2228",
+                "5": "1565703773420332:4444",
+                "6": "1565703838808611:4781",
+                "7": "1565703851256608:4935",
+                "8": "1565703851257453:4942",
+                "9": "1565711204705562:12213",
+                "10": "1565712473796718:74939",
+                "11": "1565712475942249:77884",
+                "12": "1565712476925368:80905",
+                "13": "1565712477299518:81322",
+                "14": "1565712478349182:84572",
+                "15": "1565712478794180:86437",
+                "16": "1565712479682211:88400",
+                "17": "1565712480103235:90364",
+                "18": "1565712481095899:92431",
+                "19": "1565712481504961:94493",
+                "20": "1565712482488310:96666",
+                "21": "1565712482919946:98828",
+                "22": "1565712483883958:101105",
+                "23": "1565712484364034:103375",
+                "24": "1565712485357749:105754",
+                "25": "1565712485844041:108116",
+                "26": "1565712486836077:110601",
+                "27": "1565712487290228:113065",
+                "28": "1565712488248278:115652",
+                "29": "1565712488732718:118216",
+                "30": "1565712489676113:120914",
+                "31": "1565712490160878:123578",
+                "32": "1565712491152612:126373",
+                "33": "1565712491598759:129135",
+                "34": "1565712492270985:132028",
+                "35": "1565712493259164:134954",
+                "36": "1565712493730452:137866",
+                "37": "1565712494675527:140928",
+                "38": "1565712495208676:143947",
+                "39": "1565712496237673:147109",
+                "40": "1565712496787355:150226",
+                "41": "1565712497766240:153494",
+                "42": "1565718349879269:34168",
+                "43": "1565718373236614:43777"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Keyboard",
+                    "layerMask": "2"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "2",
+                    "v": "Files\/File2"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.lsmat"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.png"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.png"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.lsmat"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.lsmat"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.lsmat"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.lsmat"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.lsmat"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.js"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.js"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.js"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.js"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.js"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.js"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.ttf"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.js"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.js"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.js"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.js"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.js"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Stream"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Keyboard\/[EDIT_ME]\/Materials"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Keyboard"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Keyboard\/Internal"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Keyboard\/Internal\/Scripts"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Keyboard\/[EDIT_ME]\/Textures"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Keyboard\/[EDIT_ME]\/Fonts"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Keyboard\/[EDIT_ME]\/Textures\/tex_generic.png"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Keyboard\/[EDIT_ME]\/Materials\/key_active.lsmat"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Keyboard\/[EDIT_ME]\/Materials\/key_idle.lsmat"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Keyboard\/[EDIT_ME]\/Materials\/key_press.lsmat"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Keyboard\/Internal\/Materials\/text_toucharea_seethrough.lsmat"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Keyboard\/[EDIT_ME]\/Materials\/toggle_idle.lsmat"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Keyboard\/Internal\/Materials\/touchprotect_seethrough.lsmat"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Keyboard\/[EDIT_ME]"
+                    },
+                    {
+                        "k": "18",
+                        "v": "Keyboard\/Internal\/Scripts\/Key_Start.js"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Keyboard\/Internal\/Scripts\/Key_TouchEnded.js"
+                    },
+                    {
+                        "k": "20",
+                        "v": "Keyboard\/Internal\/Scripts\/Key_TouchStarted.js"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Keyboard\/Internal\/Scripts\/Keyboard_Main.js"
+                    },
+                    {
+                        "k": "22",
+                        "v": "Keyboard\/Internal\/Scripts\/TouchSlideText.js"
+                    },
+                    {
+                        "k": "23",
+                        "v": "Keyboard\/[EDIT_ME]\/Scripts"
+                    },
+                    {
+                        "k": "24",
+                        "v": "Keyboard\/[EDIT_ME]\/Scripts\/GetKeyboardText.js"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Keyboard\/[EDIT_ME]\/Fonts\/Merriweather.ttf"
+                    },
+                    {
+                        "k": "26",
+                        "v": "Keyboard\/Internal\/Scripts\/Tween"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Keyboard\/Internal\/Scripts\/Tween\/Tween.js"
+                    },
+                    {
+                        "k": "28",
+                        "v": "Keyboard\/Internal\/Scripts\/Tween\/TweenManager.js"
+                    },
+                    {
+                        "k": "29",
+                        "v": "Keyboard\/Internal\/Scripts\/Tween\/Types"
+                    },
+                    {
+                        "k": "30",
+                        "v": "Keyboard\/Internal\/Scripts\/Tween\/Types\/TweenAlpha.js"
+                    },
+                    {
+                        "k": "31",
+                        "v": "Keyboard\/Internal\/Scripts\/Tween\/Types\/TweenChain.js"
+                    },
+                    {
+                        "k": "32",
+                        "v": "Keyboard\/Internal\/Scripts\/Tween\/Types\/TweenScreenTransform.js"
+                    },
+                    {
+                        "k": "33",
+                        "v": "Keyboard\/Internal\/Materials"
+                    },
+                    {
+                        "k": "34",
+                        "v": "[REMOVE_ME]"
+                    },
+                    {
+                        "k": "35",
+                        "v": "[REMOVE_ME]\/Rotating.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "5",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "10",
+                        "v": "84e33115d33d0fe98d43bc023d207d8b"
+                    },
+                    {
+                        "k": "11",
+                        "v": "a929b91e548c552d70d61d72e35cccb5"
+                    },
+                    {
+                        "k": "12",
+                        "v": "53f733208ab298e8069ab2b4fcf67621"
+                    },
+                    {
+                        "k": "13",
+                        "v": "bf691686e0d5d6037b4f52890061ae3c"
+                    },
+                    {
+                        "k": "14",
+                        "v": "b3e7e84e9359769ef5d27ca8cdc1ce00"
+                    },
+                    {
+                        "k": "15",
+                        "v": "c5047329cd2ff6c07125a4bd28ec8430"
+                    },
+                    {
+                        "k": "16",
+                        "v": "7b2a1db23c4eb0eb46e9403693b97c7a"
+                    },
+                    {
+                        "k": "18",
+                        "v": "dff0a17013c051a89f8bb02d271d2001"
+                    },
+                    {
+                        "k": "19",
+                        "v": "b1772ac01a475787e113a95131fde875"
+                    },
+                    {
+                        "k": "20",
+                        "v": "7d59cd93aa6d97d3ac4e49afded565da"
+                    },
+                    {
+                        "k": "21",
+                        "v": "42262a4d7543bd1ac49e09e4cdc8fb99"
+                    },
+                    {
+                        "k": "22",
+                        "v": "6793d32be24719f8dcc0ca2cb11df12a"
+                    },
+                    {
+                        "k": "24",
+                        "v": "f293cbd7ac06cd5d4fc0df637c6630a1"
+                    },
+                    {
+                        "k": "25",
+                        "v": "f96a44b40f99ae4b63f275f1142f7c98"
+                    },
+                    {
+                        "k": "27",
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    },
+                    {
+                        "k": "28",
+                        "v": "1b937dfbcbcd8ef1ee1a275fe7899278"
+                    },
+                    {
+                        "k": "30",
+                        "v": "aa362e7548dcf0b077de03d641431777"
+                    },
+                    {
+                        "k": "31",
+                        "v": "f51e2387d37af7b5a85766408a362e18"
+                    },
+                    {
+                        "k": "32",
+                        "v": "42e34f6843c51889977aed3783ff56e9"
+                    },
+                    {
+                        "k": "35",
+                        "v": "28c9ee039ba1adc9cb771732ba44026e"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2019-08-13T20:29:31",
+                        "name": "Public",
+                        "hash": "67fc0612e5e53775430ecdef4bad763a",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-07-09T14:29:08",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-08-13T20:29:31",
+                                "name": "Keyboard",
+                                "hash": "fe984b83bcc4d5bd51e2b0ff7a961722",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-08-13T15:47:22",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-08-13T20:29:31",
+                                        "name": "Internal",
+                                        "hash": "5c891062d4ce0fbd998f3f492a8c034f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-08-13T15:47:34",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-08-13T20:29:31",
+                                                "name": "Materials",
+                                                "hash": "b462f1dc667700a29732eb747975b1ea",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T17:26:38",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T19:09:25",
+                                                        "name": "text_toucharea_seethrough.lsmat",
+                                                        "hash": "b3e7e84e9359769ef5d27ca8cdc1ce00",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T17:26:47",
+                                                        "name": "touchprotect_seethrough.lsmat",
+                                                        "hash": "7b2a1db23c4eb0eb46e9403693b97c7a",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-08-13T20:29:31",
+                                                "name": "Scripts",
+                                                "hash": "395b408a419fae4c0795206dd80fb7b3",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T17:14:15",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T20:27:07",
+                                                        "name": "Keyboard_Main.js",
+                                                        "hash": "42262a4d7543bd1ac49e09e4cdc8fb99",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-21T17:39:29",
+                                                        "name": "Key_Start.js",
+                                                        "hash": "dff0a17013c051a89f8bb02d271d2001",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-22T17:12:54",
+                                                        "name": "Key_TouchEnded.js",
+                                                        "hash": "b1772ac01a475787e113a95131fde875",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-22T17:22:17",
+                                                        "name": "Key_TouchStarted.js",
+                                                        "hash": "7d59cd93aa6d97d3ac4e49afded565da",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-21T19:39:34",
+                                                        "name": "TouchSlideText.js",
+                                                        "hash": "6793d32be24719f8dcc0ca2cb11df12a",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2019-08-13T20:29:31",
+                                                        "name": "Tween",
+                                                        "hash": "ed6d60323b90155a2b97e2622aa426ee",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-08-13T17:19:32",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-07-09T14:29:12",
+                                                                "name": "Tween.js",
+                                                                "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-07-09T14:29:12",
+                                                                "name": "TweenManager.js",
+                                                                "hash": "1b937dfbcbcd8ef1ee1a275fe7899278",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "true",
+                                                                "lastModified": "2019-08-13T20:29:31",
+                                                                "name": "Types",
+                                                                "hash": "90b8d0b6c3bbe7b84667dc98d9575468",
+                                                                "children": [
+                                                                    {
+                                                                        "isFolder": "false",
+                                                                        "lastModified": "2019-08-13T17:20:07",
+                                                                        "name": "folder.lock",
+                                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                        "children": ""
+                                                                    },
+                                                                    {
+                                                                        "isFolder": "false",
+                                                                        "lastModified": "2019-07-09T14:29:12",
+                                                                        "name": "TweenAlpha.js",
+                                                                        "hash": "aa362e7548dcf0b077de03d641431777",
+                                                                        "children": ""
+                                                                    },
+                                                                    {
+                                                                        "isFolder": "false",
+                                                                        "lastModified": "2019-07-09T14:29:12",
+                                                                        "name": "TweenChain.js",
+                                                                        "hash": "f51e2387d37af7b5a85766408a362e18",
+                                                                        "children": ""
+                                                                    },
+                                                                    {
+                                                                        "isFolder": "false",
+                                                                        "lastModified": "2019-07-09T14:29:12",
+                                                                        "name": "TweenScreenTransform.js",
+                                                                        "hash": "42e34f6843c51889977aed3783ff56e9",
+                                                                        "children": ""
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-08-13T20:29:31",
+                                        "name": "[EDIT_ME]",
+                                        "hash": "90e62fc055a5225a0b9ec81edcbd69d9",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-08-13T17:15:44",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-08-13T20:29:31",
+                                                "name": "Fonts",
+                                                "hash": "b976c328e56fe332c32236e37a2ac464",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T17:14:53",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-09T14:28:54",
+                                                        "name": "Merriweather.ttf",
+                                                        "hash": "f96a44b40f99ae4b63f275f1142f7c98",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-08-13T20:29:31",
+                                                "name": "Materials",
+                                                "hash": "6d52eaf5d7db2b12adc6653707f804dc",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T15:47:05",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T18:11:46",
+                                                        "name": "key_active.lsmat",
+                                                        "hash": "a929b91e548c552d70d61d72e35cccb5",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T18:11:46",
+                                                        "name": "key_idle.lsmat",
+                                                        "hash": "53f733208ab298e8069ab2b4fcf67621",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T18:11:46",
+                                                        "name": "key_press.lsmat",
+                                                        "hash": "bf691686e0d5d6037b4f52890061ae3c",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T18:11:47",
+                                                        "name": "toggle_idle.lsmat",
+                                                        "hash": "c5047329cd2ff6c07125a4bd28ec8430",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-08-13T20:29:31",
+                                                "name": "Scripts",
+                                                "hash": "c2f85d50ad95aea2359862be95348df0",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T17:17:34",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-08T13:05:41",
+                                                        "name": "GetKeyboardText.js",
+                                                        "hash": "f293cbd7ac06cd5d4fc0df637c6630a1",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-08-13T20:29:31",
+                                                "name": "Textures",
+                                                "hash": "e4e145fe31ee1e0412803aeb28dde813",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T17:14:44",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-08-13T17:15:25",
+                                                        "name": "tex_generic.png",
+                                                        "hash": "84e33115d33d0fe98d43bc023d207d8b",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-08-13T20:29:31",
+                                "name": "Stream",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-08-13T15:45:03",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-08-13T20:29:31",
+                                "name": "[REMOVE_ME]",
+                                "hash": "3be037f51630fa5365f9061425a55bfd",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-08-13T19:45:12",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-08-13T19:27:58",
+                                        "name": "Rotating.js",
+                                        "hash": "28c9ee039ba1adc9cb771732ba44026e",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Stream",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Keyboard",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "3",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Internal",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "4",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Scripts",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "6",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Key_Start",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "11",
+                                                "dependency": "0",
+                                                "uid": "1565709435911532:3886",
+                                                "fileId": "16",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Scripts\/Key_Start.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Key_TouchEnded",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "12",
+                                                "dependency": "0",
+                                                "uid": "1565709436094607:3898",
+                                                "fileId": "17",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "19",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Scripts\/Key_TouchEnded.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Key_TouchStarted",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "13",
+                                                "dependency": "0",
+                                                "uid": "1565709436179155:4030",
+                                                "fileId": "18",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "20",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Scripts\/Key_TouchStarted.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Keyboard_Main",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "14",
+                                                "dependency": "0",
+                                                "uid": "1565709436254921:4042",
+                                                "fileId": "19",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "21",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Scripts\/Keyboard_Main.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "TouchSlideText",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "15",
+                                                "dependency": "0",
+                                                "uid": "1565709436396145:4056",
+                                                "fileId": "20",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "22",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Scripts\/TouchSlideText.js",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Tween",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Tween",
+                                                        "type": "4",
+                                                        "subtype": "0",
+                                                        "resourceId": "18",
+                                                        "dependency": "0",
+                                                        "uid": "1565709597676433:6839",
+                                                        "fileId": "23",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "27",
+                                                        "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Scripts\/Tween\/Tween.js",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "TweenManager",
+                                                        "type": "4",
+                                                        "subtype": "0",
+                                                        "resourceId": "19",
+                                                        "dependency": "0",
+                                                        "uid": "1565709597825064:6851",
+                                                        "fileId": "24",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "28",
+                                                        "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Scripts\/Tween\/TweenManager.js",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Types",
+                                                        "type": "0",
+                                                        "subtype": "-1",
+                                                        "resourceId": "-1",
+                                                        "dependency": "0",
+                                                        "uid": "-1:-1",
+                                                        "fileId": "18446744073709551615",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "29",
+                                                        "source": "",
+                                                        "additional": "",
+                                                        "resources": [
+                                                            {
+                                                                "name": "TweenAlpha",
+                                                                "type": "4",
+                                                                "subtype": "0",
+                                                                "resourceId": "20",
+                                                                "dependency": "0",
+                                                                "uid": "1565709616428373:8080",
+                                                                "fileId": "25",
+                                                                "originalId": "18446744073709551615",
+                                                                "publicId": "30",
+                                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Scripts\/Tween\/Types\/TweenAlpha.js",
+                                                                "additional": ""
+                                                            },
+                                                            {
+                                                                "name": "TweenChain",
+                                                                "type": "4",
+                                                                "subtype": "0",
+                                                                "resourceId": "21",
+                                                                "dependency": "0",
+                                                                "uid": "1565709616615609:8092",
+                                                                "fileId": "26",
+                                                                "originalId": "18446744073709551615",
+                                                                "publicId": "31",
+                                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Scripts\/Tween\/Types\/TweenChain.js",
+                                                                "additional": ""
+                                                            },
+                                                            {
+                                                                "name": "TweenScreenTransform",
+                                                                "type": "4",
+                                                                "subtype": "0",
+                                                                "resourceId": "22",
+                                                                "dependency": "0",
+                                                                "uid": "1565709616782341:8414",
+                                                                "fileId": "27",
+                                                                "originalId": "18446744073709551615",
+                                                                "publicId": "32",
+                                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Scripts\/Tween\/Types\/TweenScreenTransform.js",
+                                                                "additional": ""
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "33",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "text_toucharea_seethrough",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "8",
+                                                "dependency": "0",
+                                                "uid": "1565709329180522:2865",
+                                                "fileId": "10",
+                                                "originalId": "11",
+                                                "publicId": "14",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Materials\/text_toucharea_seethrough.lsmat",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "touchprotect_seethrough",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "10",
+                                                "dependency": "0",
+                                                "uid": "1565709332104263:3157",
+                                                "fileId": "14",
+                                                "originalId": "15",
+                                                "publicId": "16",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Materials\/touchprotect_seethrough.lsmat",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "[EDIT_ME]",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "17",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "2",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "key_active",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "4",
+                                                "dependency": "0",
+                                                "uid": "1565709325698761:2547",
+                                                "fileId": "2",
+                                                "originalId": "3",
+                                                "publicId": "11",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Materials\/key_active.lsmat",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "key_idle",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "6",
+                                                "dependency": "0",
+                                                "uid": "1565709326770985:2599",
+                                                "fileId": "6",
+                                                "originalId": "7",
+                                                "publicId": "12",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Materials\/key_idle.lsmat",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "key_press",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "7",
+                                                "dependency": "0",
+                                                "uid": "1565709328078284:2727",
+                                                "fileId": "8",
+                                                "originalId": "9",
+                                                "publicId": "13",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Materials\/key_press.lsmat",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "toggle_idle",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "9",
+                                                "dependency": "0",
+                                                "uid": "1565709330729263:3007",
+                                                "fileId": "12",
+                                                "originalId": "13",
+                                                "publicId": "15",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Materials\/toggle_idle.lsmat",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "7",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "tex_generic",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "5",
+                                                "dependency": "0",
+                                                "uid": "1565709326047931:2577",
+                                                "fileId": "4",
+                                                "originalId": "5",
+                                                "publicId": "10",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fonts",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "8",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Merriweather",
+                                                "type": "13",
+                                                "subtype": "0",
+                                                "resourceId": "17",
+                                                "dependency": "0",
+                                                "uid": "1565709479307370:4754",
+                                                "fileId": "22",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "25",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/Internal\/Media\/Fonts\/Merriweather.ttf",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Scripts",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "23",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "GetKeyboardText",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "16",
+                                                "dependency": "0",
+                                                "uid": "1565709465068889:4439",
+                                                "fileId": "21",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "24",
+                                                "source": "C:\/Users\/Max\/Desktop\/v017\/KeyboardTemplate\/KeyboardTemplate\/Public\/Keyboard_Resources\/User_Scripts\/GetKeyboardText.js",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "[REMOVE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "34",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Rotating",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "23",
+                                "dependency": "0",
+                                "uid": "1565718332857026:21598",
+                                "fileId": "28",
+                                "originalId": "18446744073709551615",
+                                "publicId": "35",
+                                "source": "C:\/Users\/Max\/Desktop\/v018_v2.0.1\/v004\/KeyboardTemplate\/Public\/[REMOVE_ME]\/Rotating.js",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1565703679678725:1683"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

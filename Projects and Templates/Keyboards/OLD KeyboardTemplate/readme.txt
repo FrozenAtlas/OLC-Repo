@@ -1,7 +1,7 @@
 || Max van Leeuwen - maxvanleeuwen.com
 || snap, insta, twitter @ maxeflats
 
-
+**** THIS DOES NOT WORK ON LENS STUDIO 2.0.0 AND UP ****
 
 || Install
 
