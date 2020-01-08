@@ -1,0 +1,957 @@
+{
+    "lens_id": "",
+    "document_id": "5IqyqZEys7DM03BIqS6d",
+    "original_document_id": "5IqyqZEys7DM03BIqS6d",
+    "version": "20",
+    "lastChanged": "1578454727756",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Image"
+                    ],
+                    [
+                        "ImageCycle"
+                    ],
+                    [
+                        "OLCPictures"
+                    ],
+                    [
+                        "OLCPictures",
+                        "MaxVanLeeuwen"
+                    ],
+                    [
+                        "OLCPictures",
+                        "PhilWalton"
+                    ],
+                    [
+                        "OLCPictures",
+                        "anacasciello"
+                    ],
+                    [
+                        "OLCPictures",
+                        "benknutson"
+                    ],
+                    [
+                        "OLCPictures",
+                        "brandon"
+                    ],
+                    [
+                        "OLCPictures",
+                        "bryant"
+                    ],
+                    [
+                        "OLCPictures",
+                        "chrishiga"
+                    ],
+                    [
+                        "OLCPictures",
+                        "slakey"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Image"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "video_preview_path": "preview.mp4",
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Open Mouth Person 5.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1578438721409016:135904"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1578438609941880:135478",
+                    "name": "Files\/File4.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1578438773296461:138252",
+                    "name": "Files\/File7.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1578438810606704:139701",
+                    "name": "Files\/File9.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1578438819054098:139842",
+                    "name": "Files\/File11.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1578438821588206:139988",
+                    "name": "Files\/File13.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1578438823635862:140139",
+                    "name": "Files\/File15.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1578438860338653:140601",
+                    "name": "Files\/File17.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1578438887295180:140767",
+                    "name": "Files\/File19.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1578438890465820:140934",
+                    "name": "Files\/File21.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1578438898102274:141106",
+                    "name": "Files\/File23.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1578439353746973:149589",
+                    "name": "Files\/File27",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1578438715820473:135680",
+                "4": "1578438721408754:135903",
+                "5": "1578438721409016:135904",
+                "6": "1578438779137861:138421"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.js"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.png"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.jpg"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.jpg"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.jpg"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.jpg"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.jpg"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.jpg"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.jpg"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.jpg"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.jpg"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.jpg"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.jpg"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.jpg"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.jpg"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.jpg"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "780",
+                        "v": "ImageCycle.js"
+                    },
+                    {
+                        "k": "781",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "782",
+                        "v": "Textures\/Image.png"
+                    },
+                    {
+                        "k": "784",
+                        "v": "OLCPictures"
+                    },
+                    {
+                        "k": "785",
+                        "v": "OLCPictures\/benknutson.jpg"
+                    },
+                    {
+                        "k": "786",
+                        "v": "OLCPictures\/MaxVanLeeuwen.jpg"
+                    },
+                    {
+                        "k": "787",
+                        "v": "OLCPictures\/slakey.jpg"
+                    },
+                    {
+                        "k": "788",
+                        "v": "OLCPictures\/anacasciello.jpg"
+                    },
+                    {
+                        "k": "789",
+                        "v": "OLCPictures\/brandon.jpg"
+                    },
+                    {
+                        "k": "790",
+                        "v": "OLCPictures\/bryant.png"
+                    },
+                    {
+                        "k": "791",
+                        "v": "OLCPictures\/chrishiga.jpg"
+                    },
+                    {
+                        "k": "792",
+                        "v": "OLCPictures\/PhilWalton.jpg"
+                    },
+                    {
+                        "k": "794",
+                        "v": "Image.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "779",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "780",
+                        "v": "79805d0a9378431729ccbe2d52bb03e7"
+                    },
+                    {
+                        "k": "782",
+                        "v": "54b5e21104a4a7f86b3d510596fdc27e"
+                    },
+                    {
+                        "k": "783",
+                        "v": "5f1208222490f840f9aa51ed04342a00"
+                    },
+                    {
+                        "k": "785",
+                        "v": "a09c1024e02b4bad78f4ecd2f54a54d4"
+                    },
+                    {
+                        "k": "786",
+                        "v": "4738536a9e4e92cf33d300f5b9845255"
+                    },
+                    {
+                        "k": "787",
+                        "v": "9abf7a61ceac380792ceae7afe354be8"
+                    },
+                    {
+                        "k": "788",
+                        "v": "024db787b2f8ccb013172af11d510a59"
+                    },
+                    {
+                        "k": "789",
+                        "v": "095483ce1723f8264fb8b729fdc685a1"
+                    },
+                    {
+                        "k": "790",
+                        "v": "d50d1b174a1c81f9ce28ad14b4b1fca9"
+                    },
+                    {
+                        "k": "791",
+                        "v": "22a12316933cc59125cf702923f92036"
+                    },
+                    {
+                        "k": "792",
+                        "v": "1c7d80410a43fd2c55195741c601c7b1"
+                    },
+                    {
+                        "k": "793",
+                        "v": "30eae5c21517567aa8fe132e4a0c5f13"
+                    },
+                    {
+                        "k": "794",
+                        "v": "5e1927560008a3c7aac4375846b740c3"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-01-07T18:56:35",
+                        "name": "Public",
+                        "hash": "fa2a88eb9f60fd98789b46933e365f61",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-11T15:51:58",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-11T15:51:58",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-11T15:51:58",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-07T18:22:34",
+                                "name": "Image.lsmat",
+                                "hash": "5e1927560008a3c7aac4375846b740c3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-07T18:56:35",
+                                "name": "ImageCycle.js",
+                                "hash": "79805d0a9378431729ccbe2d52bb03e7",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-07T18:56:06",
+                                "name": "OLCPictures",
+                                "hash": "fbc9cb8185fb96f99a8532a3501b6ec0",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-05T18:54:09",
+                                        "name": "anacasciello.jpg",
+                                        "hash": "024db787b2f8ccb013172af11d510a59",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-05T18:58:47",
+                                        "name": "benknutson.jpg",
+                                        "hash": "a09c1024e02b4bad78f4ecd2f54a54d4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-07T16:50:38",
+                                        "name": "brandon.jpg",
+                                        "hash": "095483ce1723f8264fb8b729fdc685a1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-07T17:50:44",
+                                        "name": "bryant.png",
+                                        "hash": "d50d1b174a1c81f9ce28ad14b4b1fca9",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-07T16:50:38",
+                                        "name": "chrishiga.jpg",
+                                        "hash": "22a12316933cc59125cf702923f92036",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-07T18:13:23",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-05T18:56:51",
+                                        "name": "MaxVanLeeuwen.jpg",
+                                        "hash": "4738536a9e4e92cf33d300f5b9845255",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-07T16:50:38",
+                                        "name": "PhilWalton.jpg",
+                                        "hash": "1c7d80410a43fd2c55195741c601c7b1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-05T18:56:08",
+                                        "name": "slakey.jpg",
+                                        "hash": "9abf7a61ceac380792ceae7afe354be8",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-07T18:56:06",
+                                "name": "Textures",
+                                "hash": "256b1775c79a3f9e9ec85ac29b878ef1",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-07T18:12:53",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-07T18:12:53",
+                                        "name": "Image.png",
+                                        "hash": "54b5e21104a4a7f86b3d510596fdc27e",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "781",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Image",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "13",
+                                "dependency": "0",
+                                "uid": "1578438773296461:138252",
+                                "fileId": "7",
+                                "originalId": "8",
+                                "publicId": "782",
+                                "source": "C:\/Users\/Nick\/AppData\/Local\/Temp\/Lens Studio-gEEgMw\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ImageCycle",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "uid": "1578438609941880:135478",
+                        "fileId": "4",
+                        "originalId": "18446744073709551615",
+                        "publicId": "780",
+                        "source": "D:\/Documents\/SnapLens\/_Scripts\/texturechange_update.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "OLCPictures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "784",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "benknutson",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "uid": "1578438810606704:139701",
+                                "fileId": "9",
+                                "originalId": "10",
+                                "publicId": "785",
+                                "source": "C:\/Users\/Nick\/Desktop\/OLC\/0.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "MaxVanLeeuwen",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "uid": "1578438819054098:139842",
+                                "fileId": "11",
+                                "originalId": "12",
+                                "publicId": "786",
+                                "source": "C:\/Users\/Nick\/Desktop\/OLC\/MaxVanLeeuwen.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "slakey",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "16",
+                                "dependency": "0",
+                                "uid": "1578438821588206:139988",
+                                "fileId": "13",
+                                "originalId": "14",
+                                "publicId": "787",
+                                "source": "C:\/Users\/Nick\/Desktop\/OLC\/slakeyprofile-1-copy.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "anacasciello",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "uid": "1578438823635862:140139",
+                                "fileId": "15",
+                                "originalId": "16",
+                                "publicId": "788",
+                                "source": "C:\/Users\/Nick\/Desktop\/OLC\/anacascielloprofile.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "brandon",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "uid": "1578438860338653:140601",
+                                "fileId": "17",
+                                "originalId": "18",
+                                "publicId": "789",
+                                "source": "E:\/SnapLens\/WhichOLC\/Public\/OLCPictures\/brandon.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "bryant",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "uid": "1578438887295180:140767",
+                                "fileId": "19",
+                                "originalId": "20",
+                                "publicId": "790",
+                                "source": "D:\/Documents\/SnapLens\/WhichOLC\/Public\/OLCPictures\/bryant.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "chrishiga",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "uid": "1578438890465820:140934",
+                                "fileId": "21",
+                                "originalId": "22",
+                                "publicId": "791",
+                                "source": "D:\/Documents\/SnapLens\/WhichOLC\/Public\/OLCPictures\/chrishiga.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "PhilWalton",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "uid": "1578438898102274:141106",
+                                "fileId": "23",
+                                "originalId": "24",
+                                "publicId": "792",
+                                "source": "D:\/Documents\/SnapLens\/WhichOLC\/Public\/OLCPictures\/PhilWalton-copy.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Image",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "uid": "1578439353746973:149589",
+                        "fileId": "27",
+                        "originalId": "28",
+                        "publicId": "794",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
