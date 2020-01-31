@@ -1,0 +1,90 @@
+// -----JS CODE-----
+// SnapTexture.js
+// Version: 0.0.1
+// Event: Initialized
+// Description: A helper script that allows you to projects screen positions from camera?s view onto the mesh?s UVs
+
+// @input bool advanced = false
+// @input Component.Camera mainCamera {"showIf": "advanced"}
+// @input Component.BaseMeshVisual faceMeshVisual {"showIf": "advanced"}
+// @input SceneObject headBinding {"showIf": "advanced"}
+
+var duplicatedFaceMeshObject;
+var duplicatedMesh;
+var init = false;
+var faceFound = false;
+
+initialized();
+
+function initialized()
+{
+    if(checkInputValues())
+    {
+        var thisSceneObject = script.faceMeshVisual.getSceneObject();
+        duplicatedFaceMeshObject = script.headBinding.copyWholeHierarchy(thisSceneObject);
+        duplicatedFaceMeshObject.getTransform().setLocalPosition(vec3.zero());
+        duplicatedMesh = duplicatedFaceMeshObject.getComponent("Component.BaseMeshVisual");
+        duplicatedMesh.enabled = false;
+        init = true;
+    }
+}
+
+function onUpdateEvent(eventData)
+{
+    if(init && duplicatedFaceMeshObject != null && duplicatedMesh != null && faceFound)
+    {
+        try
+        {
+            duplicatedMesh.snap(script.mainCamera);
+        }
+        catch(err)
+        {
+            print("" + err)
+        }
+    }
+}
+
+function checkInputValues()
+{
+    if( !script.mainCamera )
+    {
+        print( "SnapTexture, Error: Make sure the Camera object exists and is set under the Advanced checkbox" );
+        return false;
+    }
+    
+    if( !script.faceMeshVisual )
+    {
+        print( "SnapTexture, Error: Make sure the Face Mesh object exists and is set under the Advanced checkbox" );
+        return false;
+    }
+
+    if( !script.headBinding )
+    {
+        print( "SnapTexture, Error: Make sure the Head Binding object exists and is set under the Advanced checkbox" );
+        return false;
+    }
+
+    return true;
+}
+
+var updateEvent = script.createEvent("UpdateEvent");
+updateEvent.bind(onUpdateEvent); 
+
+var event0 = script.createEvent("FaceFoundEvent");
+event0.faceIndex = 0;
+event0.bind(function (eventData)
+{
+    var delayedEvent = script.createEvent("DelayedCallbackEvent");
+    delayedEvent.bind(function(eventData)
+    {
+       faceFound = true;
+    });
+    delayedEvent.reset(0);    
+});
+
+var event = script.createEvent("FaceLostEvent");
+event.faceIndex = 0;
+event.bind(function (eventData)
+{
+    faceFound = false;
+});
